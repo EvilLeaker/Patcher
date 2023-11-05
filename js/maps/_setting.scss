@@ -1,0 +1,122 @@
+@charset "utf-8";
+
+// ===================================================================
+// 設定
+// ===================================================================
+
+//breakpoint
+$bp_sp:767px;
+// photoshopのカンバスサイズ
+$vp_pc:1600;
+$vp_sp:800;
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500;700&display=swap');
+// font-family: 'Hind', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap');
+// font-family: 'Noto Sans JP', sans-serif;
+// font
+$font-base:'Hind',
+'Noto Sans JP',
+sans-serif;
+
+$font-hind: 'Hind',
+sans-serif;
+
+$font-notos: 'Noto Sans JP',
+sans-serif;
+// color
+
+// ヘッダー
+$color-header_bg: rgba(255, 255, 255, 0.6);
+$color-header_bg_sp: #fff;
+$color-header_bg_sp_1: rgba(255, 255, 255, 0.9);
+$color-header_bg_sp_2: rgba(223, 248, 253, 0.8);
+$color-header_line: rgba(255, 225, 57, 0.6);
+$color-language_bg: #f38e17;
+$color-btn_bg: rgba(21, 28, 57, 0.9);
+$color-header_txt: #151c39;
+$color-link_line: #f38e17;
+$color-btn_line: #ffe139;
+// フッター
+$color-footer_bg: #151c39;
+$color-footer_bd_left: rgba(243, 142, 23, 0.9);
+$color-footer_bd_right: rgba(208, 120, 16, 0.9);
+
+
+// コモン
+// $color-common_bg:#b99438;
+// $color-common_box:rgba(21, 28, 57, 0.9);
+$color-common_btn:#f38e17;
+$color-common_btn_deco:#ffef1b;
+$color-common_btn_hover:#ffef1b;
+$color-common_btn_txt_hover:#fff;
+$color-common_btn_deco_hover:#f38e17;
+$color-common_h2:#151c39;
+$color-common_h4_line:rgba(243, 142, 23, 0.9);
+$color-common_cont_bg: rgba(3, 17, 42, 0.9);
+$color-common_nav_bg: rgba(29, 29, 29, 0.8);
+$color-common_nav_hover: #f38e17;
+$color-common_nav_deco: #f38e17;
+
+// top
+$color-top_btn: rgba(28, 37, 75, 0.9);
+$color-top_btn_tri: rgba(243, 142, 23, 0.9);
+$color-top_box: linear-gradient(180deg, rgba(28, 37, 75, 0.9) 0%, rgba(21, 28, 57, 0.9) 100%);
+
+// play
+$color-play_current:#f38e17;
+$color-play_current_font:#fff;
+$color-play_nav:#1d1d1d;
+$color-play_nav_font:#fff;
+
+// dl
+$color-download_head:#f38e17;
+$color-download_head_line:#f38e17;
+$color-download:rgba(252, 250, 241, 0.9);
+$color-off:rgba(3, 17, 42, 0.9);
+$color-arrow:#f38e17;
+$color-arrowOff:#3e3e3e;
+$color-download_box: linear-gradient(180deg, rgba(16, 16, 16, 0.9) 0%, rgba(45, 45, 45, 0.9) 100%);
+
+// 使用箇所: スライダー
+$color-swiper:rgba(255, 225, 57, 0.9);
+$color-arrow_on:#ffef1b;
+$color-bullet:#6d6d6d;
+$color-bullet_on:#ffef1b;
+
+// 使用箇所: スライダー
+$color-slider:#f38e17;
+$color-time:#f38e17;
+
+// 使用箇所: NEWS
+$color-news_date: #f38e17;
+$color-news_ttl: #ffffff;
+$color-news_ttl-bg: #f38e17;
+$color-news_red: #ff173d;
+$color-news_green: #12a34d;
+$color-news_purple: #d617ff;
+$color-news_blue: #3baaff;
+$color-news_gray: #777777;
+$color-news_pink: #ff398c;
+$color-news_kon: #3d4ea5;
+$color-news_orange: #ff8a00;
+$color-news_kome: #ec2036;
+$color-news_title-border: #f38e17;
+$color-news_h1-bg: #fcfaf1;
+$color-news_h1-font: #000;
+$color-news_blockquote: #ffffff;
+$color-news_blockquote-bd: #5c5c5c;
+$color-news_pre-bg: #242424;
+$color-news_pre: #ffffff;
+$color-news_code-bg: #838383;
+$color-news_code: #404040;
+$color-news_table: #000000;
+$color-news_th-bg: #f38e17;
+$color-news_td-bg: #ffffff;
+$color-news_list-marker: #ffef1b;
+$color-news_button: #f38e17;
+$color-news_button-hover: #ffef1b;
+$color-news_button-txt: #000000;
+
+// 使用箇所: キャラ一覧
+$color-chara_card: #f38e17;

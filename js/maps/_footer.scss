@@ -1,0 +1,160 @@
+.footer {
+  position: relative;
+  width: 100%;
+  height: get_vw(550);
+  background-color: $color-footer_bg;
+  padding-top: get_vw(80);
+  text-align: center;
+  color: #fff;
+  z-index: 10;
+
+  @include min-screen() {
+    padding-top: get_vw(80, $vp_pc);
+    height: get_vw(400, $vp_pc);
+  }
+
+  @include min-screen(1400px) {
+    padding-top: 80px;
+    height: 400px;
+  }
+
+  &:before,
+  &:after {
+    position: absolute;
+    display: block;
+    content: " ";
+    width: 50%;
+    height: get_vw(10);
+    top: 0;
+
+    @include min-screen() {
+      height: get_vw(10, $vp_pc);
+    }
+
+    @include min-screen(1600px) {
+      height: 10px;
+    }
+  }
+
+  &:before {
+    background-color: $color-footer_bd_left;
+    left: 0;
+  }
+
+  &:after {
+    background-color: $color-footer_bd_right;
+    right: 0;
+  }
+
+  &--share {
+    &__head {
+      font-size: get_vw(32);
+      font-weight: bold;
+
+      @include min-screen() {
+        font-size: get_vw(26, $vp_pc);
+      }
+
+      @include min-screen(1400px) {
+        font-size: 26px;
+      }
+    }
+
+    &__box {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: get_vw(40);
+
+      @include min-screen() {
+        margin-top: get_vw(30, $vp_pc);
+      }
+
+      @include min-screen(1400px) {
+        margin-top: 30px;
+      }
+    }
+
+    &__link {
+      display: block;
+      width: get_vw(70);
+      font-size: 0;
+
+      @include min-screen() {
+        width: get_vw(50, $vp_pc);
+        transition: 300ms;
+
+        &:hover {
+          opacity: 0.7;
+        }
+      }
+
+      @include min-screen(1400px) {
+        width: 50px;
+      }
+
+      &:nth-child(2) {
+        margin: 0 get_vw(50);
+
+        @include min-screen() {
+          margin: 0 get_vw(40, $vp_pc);
+        }
+
+        @include min-screen(1400px) {
+          margin: 0 40px;
+        }
+      }
+    }
+
+  }
+
+  &--copy {
+    font-size: get_vw(18);
+    margin-top: get_vw(40);
+    line-height: 1.5;
+
+    @include min-screen() {
+      font-size: get_vw(11, $vp_pc);
+      margin-top: get_vw(60, $vp_pc);
+    }
+
+    @include min-screen(1400px) {
+      font-size: 11px;
+      margin-top: 60px;
+    }
+  }
+
+  &--logo {
+    @include min-screen() {
+      width: 100%;
+      max-width: 1600px;
+      margin: get_vw(-40, $vp_pc) auto 0;
+      padding-right: get_vw(310, $vp_pc);
+    }
+
+    @include min-screen(1600px) {
+      margin-top: -40px;
+      padding-left: 310px;
+    }
+
+    &__link {
+      display: block;
+      width: get_vw(110);
+      margin: get_vw(80) get_vw(60) 0 auto;
+
+      @include min-screen() {
+        width: get_vw(110, $vp_pc);
+        margin: 0 0 0 auto;
+        transition: 300ms;
+
+        &:hover {
+          opacity: 0.7;
+        }
+      }
+
+      @include min-screen(1400px) {
+        width: 110px;
+      }
+    }
+  }
+}
