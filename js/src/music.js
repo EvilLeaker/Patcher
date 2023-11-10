@@ -41,7 +41,7 @@ var make_music_item = function (
     thumb.classList.add("new");
   }
   var thumb_img = document.createElement("img");
-  thumb_img.src = "https://evilleaker.github.io/home/img/music/jacket/" + image;
+  thumb_img.src = "https://evilleaker.github.io/home/img/music/" + image;
   thumb.appendChild(thumb_img);
   wrapper.appendChild(thumb);
 
