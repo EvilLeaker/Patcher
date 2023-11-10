@@ -3622,6 +3622,20 @@
 .snav--nav__current.open:after {
   transform: none;
 }
+.snav--nav__current.omni {
+  background-color: #0093FF;
+  color: #fff;
+}
+.snav--nav__current.omni:before {
+  background-color: #0093FF;
+}
+.snav--nav__current.custom {
+  background-color: #EF01E6;
+  color: #fff;
+}
+.snav--nav__current.custom:before {
+  background-color: #EF01E6;
+}
 .snav--nav__current.new_music {
   background-color: #ec2036;
   color: #fff;
@@ -3837,6 +3851,22 @@
   }
   .snav--nav__item.newm .snav--nav__link:before {
     background-color: #ec2036;
+  }
+}
+@media only screen and (min-width: 767px) {
+  .snav--nav__item.omni:hover, .snav--nav__item.omni.current {
+    background-color: #0093FF;
+  }
+  .snav--nav__item.omni .snav--nav__link:before {
+    background-color: #0093FF;
+  }
+}
+@media only screen and (min-width: 767px) {
+  .snav--nav__item.custom:hover, .snav--nav__item.custom.current {
+    background-color: #EF01E6;
+  }
+  .snav--nav__item.custom .snav--nav__link:before {
+    background-color: #EF01E6;
   }
 }
 @media only screen and (min-width: 767px) {
@@ -5927,6 +5957,12 @@
     height: 20px;
     padding-top: 3px;
   }
+}
+.music--item__cat.omni {
+  background-color: #0093FF;
+}
+.music--item__cat.custom {
+  background-color: #EF01E6;
 }
 .music--item__cat.pops_anime {
   background-color: #f02d6d;

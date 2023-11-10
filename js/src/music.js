@@ -8,6 +8,8 @@ var cat_list = {
   "ORIGINAL": "original",
   "WORLDS'S END": "we",
   "ULTIMA": "ultima",
+  "創作譜面": "custom",
+  "削除曲": "omni",
 };
 
 // 生成
