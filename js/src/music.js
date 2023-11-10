@@ -121,7 +121,7 @@ var first_make = function (dir) {
   $("#music--list").empty();
   $.ajax({
     type: "GET",
-    url: "../../assets/data/music.json",
+    url: "data/music.json",
     dataType: "json",
   }).then(
     function (json) {
@@ -214,7 +214,7 @@ var copy_make = function () {
   $("#copy--list").empty();
   $.ajax({
     type: "GET",
-    url: "../../assets/data/rightsInfo.json",
+    url: "data/rightsInfo.json",
     dataType: "json",
   }).then(
     function (json) {

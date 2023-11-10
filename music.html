@@ -1,23 +1,7 @@
 <!DOCTYPE html>
 <html class="music en" lang="en">
     <head>
-		<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-NT8NXG5G5C&amp;l=dataLayer&amp;cx=c"></script>
-		<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W3J7X9T5"></script>
-		<script>
-			(function (w, d, s, l, i) {
-      			w[l] = w[l] || [];
-				w[l].push({
-					'gtm.start': new Date().getTime(),
-        			event: 'gtm.js'
-      			});
-      			var f = d.getElementsByTagName(s)[0],
-        			j = d.createElement(s),
-        			dl = l != 'dataLayer' ? '&l=' + l : '';
-				j.async = true;
-      			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      			f.parentNode.insertBefore(j, f);
-    		})(window, document, 'script', 'dataLayer', 'GTM-W3J7X9T5');
-  		</script>
+
         <meta charset="utf-8">
         <title>MUSIC LIST | CHUNI SUPERMAN WEBSITE</title>
 		<meta name="viewport" content="width=device-width">
@@ -135,18 +119,97 @@
 			</div>
 			<div class="common--inner">
 				<h2 class="common--h2">MUSIC LIST</h2>
-				
+				<div class="snav--nav">
+					<p class="snav--nav__current new_music">NEW MUSIC </p>
+					<ul class="snav--nav__list ml">
+						<li data-current="new" class="snav--nav__item newm current">
+							<a href="music.html" class="snav--nav__link new">NEW MUSIC</a>
+						</li>
+						<li data-current="pops_anime" class="snav--nav__item pops">
+   							 <a href="#" class="snav--nav__link lm">POPS &amp; ANIME</a>
+						</li>
+						<li data-current="niconico" class="snav--nav__item nico">
+    						<a href="#" class="snav--nav__link">niconico</a>
+  						</li>
+						<li data-current="toho" class="snav--nav__item toho">
+    						<a href="#" class="snav--nav__link mini">東方Project</a>
+  						</li>
+						<li data-current="variety" class="snav--nav__item variety">
+    						<a href="#" class="snav--nav__link">VARIETY</a>
+  						</li>
+						<li data-current="irodorimidori" class="snav--nav__item iro">
+    						<a href="#" class="snav--nav__link mini">イロドリミドリ</a>
+  						</li>
+						<li data-current="gekimai" class="snav--nav__item geki">
+    						<a href="#" class="snav--nav__link mini">ゲキマイ</a>
+  						</li>
+						<li data-current="original" class="snav--nav__item origin">
+    						<a href="#" class="snav--nav__link">ORIGINAL</a>
+  						</li>
+						<li data-current="we" class="snav--nav__item end">
+    						<a href="#" class="snav--nav__link">WORLD’S END</a>
+  						</li>
+						<li data-current="ultima" class="snav--nav__item ultm">
+    						<a href="#" class="snav--nav__link">ULTIMA</a>
+  						</li>
+					</ul>
+				</div>
+				<h3 class="common--h3 play--h3" data-current="new">
+					<span>NEW MUSIC</span>
+				</h3>
 			</div>
 			<div class="music">
-			  <div class="music--search">
-					<input type="text" class="music--search__input" placeholder="请输入日语歌名或艺术家">
+				<div class="music--search">
+					<input type="text" class="music--search__input" placeholder="                       请输入日语歌名或艺术家">
 					<span class="music--search__delete"></span>
 				</div>
-				<div class="music--list" id="music--list">
-					
+			  	<div class="music--list" id="music--list">
+					<div class="music--item animation">
+					</div>
 				</div>
 			</div>
 		</main>
 		<!--main /-->
+		<!-- / footer -->
+		<footer class="footer">
+			<div class="footer--share">
+				<p class="footer--share__head">SHARE</p>
+				<div class="footer--share__box">
+					<a class="footer--share__link" href="https://www.wahlap.com/product-detail.html?id=6465bd17128aa46070437ea4" target="_blank" rel="noopener noreferrer">
+						<img src="img/footer/fb.svg" alt="Wahlap">
+					</a>
+					<a class="footer--share__link" href="https://www.wahlap.com/product-detail.html?id=6465bd17128aa46070437ea4" target="_blank" rel="noopener noreferrer">
+						<img src="img/footer/li.svg" alt="Wahlap">
+					</a>
+					<a class="footer--share__link" href="https://www.wahlap.com/product-detail.html?id=6465bd17128aa46070437ea4" target="_blank" rel="noopener noreferrer">
+						<img src="img/footer/fb.svg" alt="Wahlap">
+					</a>
+				</div>
+			</div>
+			<p class="footer--copy">
+				CHUNITHM SUPERMAN
+				<br>
+				<br>
+				1145141919810
+				<br>
+				1145141919810
+			</p>
+			<div class="footer--logo">
+				<a class="footer--logo__link" href="#" target="_blank" rel="noopener noreferrer">
+					<img src="img/footer/logo_segay.png" alt="Wahlap">
+				</a>
+			</div>
+		</footer>
+		<!-- / to TOP-->
+		<a href="#" class="common--top smooth off">
+			<img src="img/common/sayo.png" alt="TOP">
+		</a>
+		<!--to TOP / -->
+		<!-- footer / -->
+		<!-- / foot -->
+		<script src="js/src/project.js"></script>
+		<script src="js/src/lib.js"></script>
+		<!-- foot / -->
+		<script src="js/src/music.js"></script>
     </body>
 </html>
