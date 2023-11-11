@@ -21502,5 +21502,37 @@
         "we_kanji": "止",
         "we_star": "1",
         "image": "e4c034fc74ff62fc.jpg"
+    },
+    {
+        "id": "5004",
+        "catname": "創作譜面",
+        "newflag": "0",
+        "title": "I",
+        "reading": "I",
+        "artist": "黒魔",
+        "lev_bas": "-",
+        "lev_adv": "-",
+        "lev_exp": "-",
+        "lev_mas": "15.3",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "5004.jpg"
+    },
+    {
+        "id": "5005",
+        "catname": "創作譜面",
+        "newflag": "0",
+        "title": "冬の花",
+        "reading": "フユノハナ",
+        "artist": "宮本浩次",
+        "lev_bas": "-",
+        "lev_adv": "-",
+        "lev_exp": "-",
+        "lev_mas": "13.9",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "5005.jpg"
     }
 ]

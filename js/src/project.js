@@ -69,7 +69,7 @@ $(window).on("load", function () {
 }); // rest api
 
 var request = new XMLHttpRequest();
-request.open('GET', 'https://evilleaker.github.io/home/wp-json/thistheme/v1/articlesRest', true);
+request.open('GET', 'https://evilleaker.github.io/wp-json/thistheme/v1/articlesRest', true);
 request.responseType = 'json';
 
 request.onload = function () {
