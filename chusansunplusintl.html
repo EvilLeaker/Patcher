@@ -24,26 +24,26 @@
                             name: "Force shared audio mode, system audio samplerate must be 48000",
                             tooltip: "Improves compatibility but may increase latency",
                             patches: [
-                            { offset: 0x1E7A60A, off: [0x01], on: [0x00] },
+                            { offset: 0xECCA0A, off: [0x01], on: [0x00] },
                             ],
                         },
                         {
                             name: "Force 2 channel audio output",
                             patches: [
-                            { offset: 0x1E7A6E1, off: [0x75, 0x3F], on: [0x90, 0x90] },
+                            { offset: 0xECCAE1, off: [0x75, 0x3F], on: [0x90, 0x90] },
                             ],
                         },
                         {
                             name: "Disable Song Select Timer",
                             patches: [
-                            { offset: 0x196955B, off: [0x74], on: [0xEB] },
+                            { offset: 0x9BB95B, off: [0x74], on: [0xEB] },
                             ],
                         },
                         {
                             name: "Set All Timers to 999",
                             patches: [
                             {
-                                offset: 0x17F3590,
+                                offset: 0x845990,
                                 off: [0x8b, 0x44, 0x24, 0x04, 0x69, 0xc0, 0xe8, 0x03, 0x00, 0x00],
                                 on: [0xb8, 0x58, 0x3e, 0x0f, 0x00, 0x90, 0x90, 0x90, 0x90, 0x90],
                             },
@@ -53,33 +53,33 @@
                             name: "No Encryption and tls",
                             tooltip: "This will also disable TLS",
                             patches: [
-                            { offset: 0x2D12568, off: [0x7D, 0x00, 0x00, 0x00, 0x7D, 0x00, 0x00, 0x00], on: [0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00] },
+                            { offset: 0x1D5BB68, off: [0x7D, 0x00, 0x00, 0x00, 0x7D, 0x00, 0x00, 0x00], on: [0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00] },
                             ]
                         },
                         {
                             name: "AUTO PLAY",
                             patches: [
                             {
-                                offset: 0x16D3235,
+                                offset: 0x725635,
                                 off: [0x8a, 0x84, 0x24, 0x80, 0x00, 0x00, 0x00],
                                 on: [0xb0, 0x02, 0x90, 0x90, 0x90, 0x90, 0x90],
                             },
-                            { offset: 0x192755E, off: [0x00], on: [0x01] },
+                            { offset: 0x97995E, off: [0x00], on: [0x01] },
                             ],
                         },
                         {
                             name: "Bypass LED board check",
                             tooltip: "Forces LED board check to good and auto continues",
                             patches: [
-                            { offset: 0x193B6AA, off: [0x01], on: [0x00] },
-                            { offset: 0x193B6AF, off: [0x00], on: [0x01] },
+                            { offset: 0x98DAAA, off: [0x01], on: [0x00] },
+                            { offset: 0x98DAAF, off: [0x00], on: [0x01] },
                             ],
                         },
                         {
                             name: "Force 120 fps",
                             tooltip: "Force the game to run in 120 Hz mode.",
                             patches: [
-                                {offset: 0xFCA889, off: [0x00], on: [0x01]}
+                                {offset: 0x1CC89, off: [0x00], on: [0x01]}
                             ]
                         }
                     ])
