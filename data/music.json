@@ -22400,6 +22400,38 @@
         "image": "5072.jpg"
     },
     {
+        "id": "5073",
+        "catname": "創作譜面",
+        "newflag": "0",
+        "title": "魔法少女とチョコレゐト",
+        "reading": "マホウショウシォトチョコレイト",
+        "artist": "作詞：ピノキオピー 作曲：ピノキオピー",
+        "lev_bas": "-",
+        "lev_adv": "-",
+        "lev_exp": "-",
+        "lev_mas": "14.6",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "5073.jpg"
+    },
+    {
+        "id": "5074",
+        "catname": "創作譜面",
+        "newflag": "0",
+        "title": "Unwelcome School",
+        "reading": "UNWELCOMESCHOOL",
+        "artist": "ミツキヨ",
+        "lev_bas": "-",
+        "lev_adv": "-",
+        "lev_exp": "-",
+        "lev_mas": "14.5",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "5074.jpg"
+    },
+    {
         "id": "5555",
         "catname": "創作譜面",
         "newflag": "0",
