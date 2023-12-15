@@ -1,0 +1,6282 @@
+[
+    {
+        "new": "new",
+        "id": "l_1_1",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.I",
+        "name": "八月朔日 みはね",
+        "text": [
+            "ピンポイントでラブな指輪を",
+            "見つけたと思ったら、",
+            "まさかの不思議空間とか……",
+            "あたしってばどした？"
+        ],
+        "artist": "magako"
+    },
+    {
+        "new": "new",
+        "id": "l_1_2",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.I",
+        "name": "犬公 ミミ美",
+        "text": [
+            "私はボクくんと",
+            "一緒にいたいだけなのに……"
+        ],
+        "artist": "きしべ"
+    },
+    {
+        "new": "new",
+        "id": "l_1_3",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.I",
+        "name": "御茶ノ水 遥",
+        "text": [
+            "こんな面白そうなものが",
+            "倉庫にあるなんて",
+            "思わなかったな！"
+        ],
+        "artist": "FAMY"
+    },
+    {
+        "new": "new",
+        "id": "l_1_4",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.I",
+        "name": "Android_type_Cleaner-2145",
+        "text": [
+            "セルフチェック",
+            "――運動機能、異常なし。",
+            "言語機能、異常なし――",
+            "本日の清掃を開始いたします"
+        ],
+        "artist": "SoyooNG"
+    },
+    {
+        "new": "new",
+        "id": "l_1_5",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.I",
+        "name": "ソロ・モーニア／メタヴァース適応体",
+        "text": [
+            "やっぱり俺は、まだまだ子供だ。",
+            "周りに迷惑かけて、",
+            "独りで突っ走って……"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "new",
+        "id": "l_a_1",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.Anthology",
+        "name": "長瀬有花／驚異の魔法",
+        "artist": "いよわ"
+    },
+    {
+        "new": "new",
+        "id": "l_a_2",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.Anthology",
+        "name": "周防パトラ／ウニの歌",
+        "artist": "ぶーた"
+    },
+    {
+        "new": "new",
+        "id": "l_a_3",
+        "page": "chunithm-luminous",
+        "ctg_name": "LUMINOUS ep.Anthology",
+        "name": "somunia／liberate",
+        "artist": "米室"
+    },
+    {
+        "new": "",
+        "id": "s_1_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "冴川 芽依",
+        "text": [
+            "心を守るために、",
+            "“私は私を”",
+            "演じ続ける。",
+            "品行方正、成績優秀、",
+            "絵に書いたような優等生を"
+        ],
+        "artist": "姐川"
+    },
+    {
+        "new": "",
+        "id": "s_1_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "神園 零",
+        "text": [
+            "正義を捻じ曲げる",
+            "悪人を裁く力――",
+            "そんな大きな力が、",
+            "もしも僕にあれば"
+        ],
+        "artist": "小田すずか"
+    },
+    {
+        "new": "",
+        "id": "s_1_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "ヴァン",
+        "text": [
+            "試作機のパイロット？",
+            "面白そうな話じゃないか"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "s_1_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "幡桐 こよみ",
+        "text": [
+            "頭の中に変な妖精さんが",
+            "住み着いたけど、",
+            "私、なにかやってしもたんやろか……"
+        ],
+        "artist": "cura"
+    },
+    {
+        "new": "",
+        "id": "s_1_5",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "チキ＆ウリシュ",
+        "text": [
+            "アタシはチキ！",
+            "追試はしょうがないとして、",
+            "なんでアイツと一緒なの！？",
+            "こんなのおかしいよ！"
+        ],
+        "artist": "くるみつ"
+    },
+    {
+        "new": "",
+        "id": "s_1_6",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "ティリー・キャクストン",
+        "text": [
+            "愛した親に捨てられて、",
+            "私は掃き溜めに落とされた。",
+            "だけど、まだ絶望はしない。",
+            "この人がいる限りは"
+        ],
+        "artist": "みつ"
+    },
+    {
+        "new": "",
+        "id": "s_1_7",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. I",
+        "name": "フリーシア・ベイヤード",
+        "text": [
+            "愚かな盲信……",
+            "今ならなんとでも言えるだろう。",
+            "だがそれが生きる意味であり……",
+            "私の全てだった"
+        ],
+        "artist": "吠L"
+    },
+    {
+        "new": "",
+        "id": "s_2_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. II",
+        "name": "安倍 八雲",
+        "text": [
+            "わらわを誰じゃと思うておる。",
+            "安倍の一族が末裔、",
+            "安倍八雲であるぞ！"
+        ],
+        "artist": "へんりいだ"
+    },
+    {
+        "new": "",
+        "id": "s_2_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. II",
+        "name": "小鳥遊 えりか",
+        "text": [
+            "救世主たる私が、",
+            "まさか……いいえ！",
+            "ありえないわ、こんな未来！"
+        ],
+        "artist": "ぴょん吉"
+    },
+    {
+        "new": "",
+        "id": "s_2_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. II",
+        "name": "神開 つかさ",
+        "text": [
+            "人生なんて",
+            "ギャンブルみたいなもんだ。",
+            "だから、今を楽しむんだよ。",
+            "今この瞬間を楽しまなきゃ",
+            "損なんだ！"
+        ],
+        "artist": "ゆか"
+    },
+    {
+        "new": "",
+        "id": "s_2_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. II",
+        "name": "薬研堀 ユウ",
+        "text": [
+            "応援は声の大きさも大事だけど、",
+            "それ以上に魂を込めないとね！"
+        ],
+        "artist": "赤城あさひと"
+    },
+    {
+        "new": "",
+        "id": "s_3_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. III",
+        "name": "エリシャ・ムルシア",
+        "text": [
+            "わたしにとっては、",
+            "故郷から出られれば何が理由でも",
+            "構わなかったんです。",
+            "それがたまたま戦争だっただけ"
+        ],
+        "artist": "せんむ"
+    },
+    {
+        "new": "",
+        "id": "s_3_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. III",
+        "name": "ナディン・ナタナエル",
+        "text": [
+            "俺に名前と居場所をくれたのは、",
+            "サルゴン様だった。",
+            "その恩義に報いられるのなら、",
+            "俺はなんだってする"
+        ],
+        "artist": "市ヶ谷"
+    },
+    {
+        "new": "",
+        "id": "s_3_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. III",
+        "name": "ドヴェルグ",
+        "text": [
+            "我々は自ら、",
+            "新たな歴史を刻まねばならん。",
+            "神の都市など不要、",
+            "未来を想像するのは",
+            "我々なのだから"
+        ],
+        "artist": "danciao"
+    },
+    {
+        "new": "",
+        "id": "s_3_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. III",
+        "name": "アンシャール・アウダーチア",
+        "text": [
+            "見つめろ、目を背けるな。",
+            "この二極化された世界に",
+            "生きる意味を問い続けるのだ"
+        ],
+        "artist": "ふぁすな"
+    },
+    {
+        "new": "",
+        "id": "s_4_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. IV",
+        "name": "宮岸 知花",
+        "text": [
+            "これだけはダメだって分かってる！",
+            "でも、",
+            "メイ様がボクを呼んでるんだ！！"
+        ],
+        "artist": "ちょん＊"
+    },
+    {
+        "new": "",
+        "id": "s_4_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. IV",
+        "name": "遊馬 万里亜",
+        "text": [
+            "私のために吹いてくれた",
+            "奏雨ちゃんの音……",
+            "その音は、どんな応援よりも",
+            "私に力をくれるから"
+        ],
+        "artist": "れい亜"
+    },
+    {
+        "new": "",
+        "id": "s_4_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. IV",
+        "name": "アッシュ（ASH:3-013）",
+        "text": [
+            "この広い星の海で、",
+            "ボクは彼女を見つけた。",
+            "時が止まったままの彼女に、",
+            "なぜかひかれたんだ"
+        ],
+        "artist": "ぶくろて"
+    },
+    {
+        "new": "",
+        "id": "s_4_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. IV",
+        "name": "ウルガレオン",
+        "text": [
+            "遙か昔。",
+            "おとぎ話よりも遠い昔に、男はいた。",
+            "守ること、戦うことに全てをかけた、",
+            "歴戦の戦士が"
+        ],
+        "artist": "西木あれく"
+    },
+    {
+        "new": "",
+        "id": "s_4_5",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. IV",
+        "name": "エステル・ヤグルーシュ",
+        "text": [
+            "私の行いは裏切りと取られても",
+            "仕方がない。",
+            "それでも真人という種を",
+            "明日に残さなくちゃいけないの"
+        ],
+        "artist": "煎茶"
+    },
+    {
+        "new": "",
+        "id": "s_5_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.V",
+        "name": "レア・エ・フラータ",
+        "text": [
+            "私は、誰からも求められていない。",
+            "望まれているのは",
+            "バテシバ様であって、",
+            "私ではないのよ"
+        ],
+        "artist": "しろまち"
+    },
+    {
+        "new": "",
+        "id": "s_5_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.V",
+        "name": "ヴォイド",
+        "text": [
+            "クソァッ！　",
+            "どいつもこいつも私の邪魔をする！",
+            "母上は、私だけのものだ！"
+        ],
+        "artist": "おぐち"
+    },
+    {
+        "new": "",
+        "id": "s_5_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.V",
+        "name": "セロ・ダーウィーズ",
+        "text": [
+            "エイハヴが蒔いた種が芽吹き、",
+            "滅びを願う者たちが",
+            "あの方の下へと集ったのだ"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "s_5_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.V",
+        "name": "ニア・バテシバ",
+        "text": [
+            "なんだかとても温かい……",
+            "まるでメーネに",
+            "抱きしめられているみたい。",
+            "もう、何も苦しまなくていいのね"
+        ],
+        "artist": "miya*ki"
+    },
+    {
+        "new": "",
+        "id": "s_6_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.VI",
+        "name": "炎の精霊",
+        "text": [
+            "ある生還者の証言",
+            "「炎の魔人は今も",
+            "山中を彷徨い続けている。",
+            "もしかしてあいつは、",
+            "何かを探してるのかもしれねえ」"
+        ],
+        "artist": "創-taro"
+    },
+    {
+        "new": "",
+        "id": "s_6_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.VI",
+        "name": "土の精霊",
+        "text": [
+            "神を傷つけたその手で",
+            "「悪夢であればいいのに。",
+            "何度そう思ったことか。",
+            "でもこの痛みは……",
+            "紛れもなく現実なのですね」"
+        ],
+        "artist": "ランサネ"
+    },
+    {
+        "new": "",
+        "id": "s_6_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.VI",
+        "name": "風の精霊",
+        "text": [
+            "砂漠の海で",
+            "「めーべは、めーべ、だよ」"
+        ],
+        "artist": "ゆずしお"
+    },
+    {
+        "new": "",
+        "id": "s_6_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.VI",
+        "name": "水の精霊",
+        "text": [
+            "力と犠牲",
+            "「誰もが幸福を享受する",
+            "新しい国……必ずや、この地を",
+            "理想郷へと作り上げてみせます」"
+        ],
+        "artist": "きのこ姫"
+    },
+    {
+        "new": "",
+        "id": "s_6_5",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.VI",
+        "name": "希望の巫女 ネフェシェ",
+        "text": [
+            "求めよ、されば与えられん",
+            "「創造神とは箱庭の世界の観測者。",
+            "世界の行く末に",
+            "干渉することはできない」"
+        ],
+        "artist": "夜汽車"
+    },
+    {
+        "new": "",
+        "id": "s_sin",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep.SIN",
+        "name": "ヴェーネス",
+        "text": [
+            "俺たちの夢……まだここは",
+            "スタート地点に過ぎない。",
+            "でも大丈夫だ。",
+            "俺とお前なら、きっとやれるさ"
+        ],
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "s_a_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. Anthology",
+        "name": "MaiR／Crawler / Flyer",
+        "artist": "裕"
+    },
+    {
+        "new": "",
+        "id": "s_a_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. Anthology",
+        "name": "BOOGEY VOXX feat.IURA TOI／Re:Credits",
+        "artist": "syuri22"
+    },
+    {
+        "new": "",
+        "id": "s_a_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. Anthology",
+        "name": "YACA IN DA HOUSE／Cheat Sheet",
+        "artist": "TERU by mashcomix"
+    },
+    {
+        "new": "",
+        "id": "s_a_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. Anthology",
+        "name": "MonsterZ MATE／One Room Sky",
+        "artist": "ふぁすな"
+    },
+    {
+        "new": "",
+        "id": "n_1a1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "マゼラン・マゼラン／コズミックラバー",
+        "text": [
+            "寝ても覚めても",
+            "マゼランマゼラン"
+        ],
+        "artist": "ちゃもーい"
+    },
+    {
+        "new": "",
+        "id": "n_1a2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "メリム",
+        "text": [
+            "並行して存在する、",
+            "ここではない世界……",
+            "そこに必ずある。",
+            "私達を救う全ての答えが"
+        ],
+        "artist": "クリス"
+    },
+    {
+        "new": "",
+        "id": "n_1a3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "縁",
+        "text": [
+            "わたしが最初に出会ったのは",
+            "白く美しい、",
+            "暗闇を纏う少女だった"
+        ],
+        "artist": "炬ﾖﾂｷﾞ"
+    },
+    {
+        "new": "",
+        "id": "n_1a4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "ちずこ",
+        "text": [
+            "サファリ市の",
+            "人気女子アナウンサー。",
+            "常に笑顔を絶やさない",
+            "彼女のひと声で一日が始まる"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "n_1a5",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "ポン助",
+        "text": [
+            "地獄の沙汰も金次第。",
+            "金は生命より重いんや、",
+            "よう覚えとけ"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "n_1a6",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "サルゴン・フェルネス",
+        "text": [
+            "延命処置を繰り返し、",
+            "真人の未来のため",
+            "すべてを捧げた男。",
+            "それがエイハヴだった"
+        ],
+        "artist": "山本明慶"
+    },
+    {
+        "new": "",
+        "id": "n_1a7",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "九十九 宗治郎",
+        "text": [
+            "ここは……",
+            "俺の、故郷なのか……？",
+            "俺は確か……戦地で……",
+            "何も思い出せない……"
+        ],
+        "artist": "小宮国春"
+    },
+    {
+        "new": "",
+        "id": "n_1a8",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "ユグドラシル",
+        "text": [
+            "全ての生命に、",
+            "大樹の加護あれ"
+        ],
+        "artist": "めばる"
+    },
+    {
+        "new": "",
+        "id": "n_1a9",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "百鬼 煌星",
+        "text": [
+            "わたしは……",
+            "プロになんてなれないよ……"
+        ],
+        "artist": "釜飯轟々丸"
+    },
+    {
+        "new": "",
+        "id": "n_1a10",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.A",
+        "name": "エイハヴ",
+        "text": [
+            "「大地を再生することが",
+            "我々に与えられた役割。",
+            "しかし、それは神が植え",
+            "付けた偽りの喜びだった」"
+        ],
+        "artist": "えすてぃお"
+    },
+    {
+        "new": "",
+        "id": "n_1b1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "荒場 流子／NEW GAME",
+        "text": [
+            "『星斗と出会ってから、",
+            "もう２年経つんだ』",
+            "『早いねー。これから",
+            "もよろしく、流子ちゃん』"
+        ],
+        "artist": "しきみ"
+    },
+    {
+        "new": "",
+        "id": "n_1b2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "愛野 ヒカリ／最盛のエール",
+        "text": [
+            "私がチアリーディング？",
+            "初めてだけど、みんなに",
+            "元気と笑顔を届けるよ！"
+        ],
+        "artist": "tonito"
+    },
+    {
+        "new": "",
+        "id": "n_1b3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "土呂城 ゆい",
+        "text": [
+            "ふひっ、ふひひ！",
+            "またイーヨがついた！",
+            "チヤホヤされるのって、",
+            "最高～（はぁと）"
+        ],
+        "artist": "赤城あさひと"
+    },
+    {
+        "new": "",
+        "id": "n_1b4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "オネスト・クンツァイト",
+        "text": [
+            "俺にとって",
+            "他愛のない日々こそが、",
+            "何ものにも代え難い",
+            "大切なものだったんだ"
+        ],
+        "artist": "風李たゆ"
+    },
+    {
+        "new": "",
+        "id": "n_1b5",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "リタ・カールステット",
+        "text": [
+            "すごい……昔はこんなに",
+            "楽しいものがあったなんて！",
+            "決めた！いっぱい研究して、",
+            "みんなを幸せにする！"
+        ],
+        "artist": "色塩"
+    },
+    {
+        "new": "",
+        "id": "n_1b6",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "コタロー",
+        "text": [
+            "今日から一人で",
+            "おるすばんするよ！へへ！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "n_1b7",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "シマッチ",
+        "text": [
+            "記念の配信がまさか、",
+            "こんな映画ばりのトラブルに",
+            "巻き込まれるなんて……"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "n_1b8",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "バテシバ・アヒトフェル",
+        "text": [
+            "誰もが生まれながら何かを",
+            "課せられているとしたら",
+            "私がやるべき事は",
+            "これしかないわ……ふふ……"
+        ],
+        "artist": "miya*ki"
+    },
+    {
+        "new": "",
+        "id": "n_1b9",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "メギド・ゴグ",
+        "text": [
+            "地上を再生へと",
+            "導いた神去りし後、",
+            "抗うものたちを殲滅すべく、",
+            "『それ』は誕生した"
+        ],
+        "artist": "danciao"
+    },
+    {
+        "new": "",
+        "id": "n_1b10",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep. I - Side.B",
+        "name": "不来方 とあ",
+        "text": [
+            "「どこまでが現実で――",
+            "どこまでが夢なのだろう」"
+        ],
+        "artist": "お久しぶり"
+    },
+    {
+        "new": "",
+        "id": "n_2_1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅱ",
+        "name": "原初の巫女アヴェニアス",
+        "text": [
+            "人間達にこの世界は相応しくない。",
+            "この僕が、ネフェシェ様と",
+            "共に理想の世界を",
+            "築き上げるんだ"
+        ],
+        "artist": "ミモザ"
+    },
+    {
+        "new": "",
+        "id": "n_2_2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅱ",
+        "name": "原初の巫女テルスウラス",
+        "text": [
+            "ネフェシェ様の側で感じる",
+            "穏やかな時間……。",
+            "それは私が大切にしている",
+            "もののひとつです"
+        ],
+        "artist": "ヒトこもる"
+    },
+    {
+        "new": "",
+        "id": "n_2_3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅱ",
+        "name": "原初の巫女メーヴェ",
+        "text": [
+            "多くを失った少女は、",
+            "ただ果てを目指す。",
+            "そこに、世界を正しく",
+            "導くものがあると信じて"
+        ],
+        "artist": "Maeka"
+    },
+    {
+        "new": "",
+        "id": "n_2_4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅱ",
+        "name": "原初の巫女サラキア",
+        "text": [
+            "この国は素晴らしいものが",
+            "たくさんあります。",
+            "ただ、私達が恩恵に",
+            "預かれることはありません……"
+        ],
+        "artist": "旧都なぎ"
+    },
+    {
+        "new": "",
+        "id": "c1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "チュウニペンギン",
+        "text": [
+            "こんにちは！",
+            "ペンギンのロシェだよ！",
+            "まずはボクから",
+            "自己紹介するね！"
+        ],
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "c2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "荒場 流子",
+        "text": [
+            "はぁ……つまらない。",
+            "だけど……なんていうか、",
+            "嫌いなわけじゃないんだよね"
+        ],
+        "artist": "しきみ"
+    },
+    {
+        "new": "",
+        "id": "c3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "愛野 ヒカリ",
+        "text": [
+            "全力前進で、",
+            "ＧＯ！　ＧＯ！　ラブリズム！",
+            "歌うのは私！　だけど",
+            "本当の主役はみんなだから！"
+        ],
+        "artist": "山×２"
+    },
+    {
+        "new": "",
+        "id": "c4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "シズマ・クロサキ",
+        "text": [
+            "過去のことは知らない……",
+            "それでも俺は前に進む！",
+            "みんなが帰る",
+            "あの場所のために……"
+        ],
+        "artist": "曽我部修司(FiFS)"
+    },
+    {
+        "new": "",
+        "id": "c5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "NEO",
+        "text": [
+            "腐り果てた貴様らの耳を、",
+            "俺が作り替えてやる……",
+            "そしてメタヴァースに",
+            "変容を起こしてみせる"
+        ],
+        "artist": "so-bin"
+    },
+    {
+        "new": "",
+        "id": "c6",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ノルン",
+        "text": [
+            "お待たせです",
+            "次の方どうぞ",
+            "怖がらずに",
+            "この椅子へどうぞ"
+        ],
+        "artist": "akka"
+    },
+    {
+        "new": "",
+        "id": "c7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "バーニッシュ",
+        "text": [
+            "俺を惑わせているのは、",
+            "『誰』だ……？",
+            "だが必ず、俺はまだ見ぬ",
+            "明日を掴んでみせる"
+        ],
+        "artist": "御船麻砥"
+    },
+    {
+        "new": "",
+        "id": "c8",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "常世のサツキ",
+        "text": [
+            "「たぶん私は",
+            "トクベツナソンザイ」",
+            "「そして世界は、",
+            "変革の神を求めている――」"
+        ],
+        "artist": "U10"
+    },
+    {
+        "new": "",
+        "id": "c9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "フィーネ・アルトリネス",
+        "text": [
+            "ひとりじゃない……",
+            "旅団のみんながいるから！",
+            "私はどこにだって、",
+            "進んでいける！"
+        ],
+        "artist": "曽我部修司(FiFS)"
+    },
+    {
+        "new": "",
+        "id": "c10",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "マジカルスター☆リリィ",
+        "text": [
+            "何も迷うことなんてないよ！",
+            "ほら見て！",
+            "ボクにも魔法が使えるように",
+            "なったんだから！"
+        ],
+        "artist": "のん"
+    },
+    {
+        "new": "",
+        "id": "c11",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "黒原 きずな",
+        "text": [
+            "「今日もわたしが、",
+            "キミ達をメロメロにしちゃうよ♪」",
+            "（みんな必死すぎ♪",
+            "でもそれがサイコー！）"
+        ],
+        "artist": "赤賀博隆"
+    },
+    {
+        "new": "",
+        "id": "c12",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "TXR-メルヴィア",
+        "text": [
+            "平穏な死の調べを捧げる……",
+            "消却されていった",
+            "我が友人たちのために"
+        ],
+        "artist": "和隆"
+    },
+    {
+        "new": "",
+        "id": "c13",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "波風 レン",
+        "text": [
+            "おいでよ、こっちは",
+            "いい風が吹いてるんだ。",
+            "向こう側の",
+            "波の音まで聞こえそうだよ"
+        ],
+        "artist": "ミヤジマハル"
+    },
+    {
+        "new": "",
+        "id": "c14",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "熱砂のディース",
+        "text": [
+            "マヌケどもが、",
+            "簡単に騙されるんじゃないよ。",
+            "あたしが面倒見てやろうか？",
+            "働きは金次第だけど"
+        ],
+        "artist": "真嶋杏次"
+    },
+    {
+        "new": "",
+        "id": "c15",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "棚町 ケンゴ",
+        "text": [
+            "「お薦めの書物は何ですか？」",
+            "「多分この本が",
+            "読みやすいです……」"
+        ],
+        "artist": "wogura"
+    },
+    {
+        "new": "",
+        "id": "c16",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ブリランテ",
+        "text": [
+            "ＥＳ１ブリランテ、",
+            "最優先目標の殲滅を完了……",
+            "次の設定座標への",
+            "転送を要求します"
+        ],
+        "artist": "TOKIYA SAKBA"
+    },
+    {
+        "new": "",
+        "id": "c17",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "美嶋 はるな",
+        "text": [
+            "あなたがどこにいるか、",
+            "ちゃんと見えるよ。",
+            "この歌は、あなたのために……"
+        ],
+        "artist": "深崎暮人"
+    },
+    {
+        "new": "",
+        "id": "c18",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "クレメンス・ジークハルト",
+        "text": [
+            "実に興味深い……",
+            "忘れていた探求心が蘇ったよ。",
+            "どうやらこいつを見届けるのが、",
+            "私の宿命か……！"
+        ],
+        "artist": "真嶋杏次"
+    },
+    {
+        "new": "",
+        "id": "c19",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "エクレール",
+        "text": [
+            "「その『彼』の雷光は、秩序の",
+            "変革に相応しい輝きだ」",
+            "　　　　　　――ＡＩ研究者の談"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "c20",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "グレン・ヴァン・トランクイロ",
+        "text": [
+            "滅び行く青の国を前にして、",
+            "無力なだけの僕に……",
+            "いったい何が",
+            "できるっていうんだ……"
+        ],
+        "artist": "MAYA"
+    },
+    {
+        "new": "",
+        "id": "c21",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ローズマリー",
+        "text": [
+            "私の旅は終わらないわ……",
+            "あの人の確かな",
+            "足跡を見つけるまでは"
+        ],
+        "artist": "御船麻砥"
+    },
+    {
+        "new": "",
+        "id": "c22",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "青の死神",
+        "text": [
+            "クレメンス曰く――",
+            "「死神とて、また神。",
+            "人の目で語ることはできない」"
+        ],
+        "artist": "真嶋杏次"
+    },
+    {
+        "new": "",
+        "id": "c23",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ピリオ",
+        "text": [
+            "遠い未来。",
+            "機械文明が進んだ世界。",
+            "そこには片脚を失った",
+            "一人の少年が居た。"
+        ],
+        "artist": "赤坂アカ"
+    },
+    {
+        "new": "",
+        "id": "c24",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "G．O．D",
+        "text": [
+            "我は煉獄の覇者。あまねく",
+            "音場の担い手なり……",
+            "我が炎は、未来を焼き尽くす"
+        ],
+        "artist": "GODTAIL"
+    },
+    {
+        "new": "",
+        "id": "c25",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "東雲 彰",
+        "text": [
+            "「フィルムを",
+            "大事に使うんだぞ」",
+            "「わー、カメラって",
+            "なんでもとれちゃうんだね！」"
+        ],
+        "artist": "wogura"
+    },
+    {
+        "new": "",
+        "id": "c26",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "DJ-MEGA",
+        "text": [
+            "ＨＡＨＡＨＡＨＡ！",
+            "Ｇｕｙｓ！",
+            "Ｔｕｒｎ　Ｒｉｇｈｔ",
+            "Ｆｏｒ　Ｉｎｄｉａｎ！"
+        ],
+        "artist": "RARE ENGINE"
+    },
+    {
+        "new": "",
+        "id": "c27",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "アルマ・ヴィス・アウダーチア",
+        "text": [
+            "ルミエラ様を",
+            "お守りできるのは、",
+            "騎士である私のみ。",
+            "さあ、わが器身一体の",
+            "譜術をご堪能なさい……"
+        ],
+        "artist": "MAYA"
+    },
+    {
+        "new": "",
+        "id": "c28",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ルミエラ・ヴィス・アニマート",
+        "text": [
+            "アルマよ……世界は広い。",
+            "見に行こうではないか？",
+            "絶対行くからな。",
+            "止めても無駄だ。",
+            "もう決めたのだ"
+        ],
+        "artist": "萩谷薫"
+    },
+    {
+        "new": "",
+        "id": "c29",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "帝国魔導師 イセリア",
+        "text": [
+            "理論上は、計算も準備も",
+            "万全に整っている……",
+            "試運転がまだだと？",
+            "そんなもの、今やればよい！"
+        ],
+        "artist": "前嶋重機"
+    },
+    {
+        "new": "",
+        "id": "c30",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "帝国騎士 グスタフ",
+        "text": [
+            "貴様たちから、いかなる",
+            "憎しみを受けようとも……",
+            "俺は自分の責務を果たす"
+        ],
+        "artist": "前嶋重機"
+    },
+    {
+        "new": "",
+        "id": "c31",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "機神 トール",
+        "text": [
+            "人類よ……",
+            "我が憤怒の雷鳴を聞け"
+        ],
+        "artist": "石垣純哉　color：SEGA"
+    },
+    {
+        "new": "",
+        "id": "c32",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "幸野 うさぎ",
+        "text": [
+            "私はもう、泣かないよ。",
+            "さようなら、私の初恋……"
+        ],
+        "artist": "U10"
+    },
+    {
+        "new": "",
+        "id": "c33",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "兎音 ココ",
+        "text": [
+            "テストの前にべんきょうだー！",
+            "わからないことがあったら",
+            "先生に聞いておこー！"
+        ],
+        "artist": "refeia"
+    },
+    {
+        "new": "",
+        "id": "c34",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "織原 ひめみ",
+        "text": [
+            "宇宙って",
+            "とっても広いんだなあ……",
+            "でも、がんばれば、いつか",
+            "会いにいけるよね？"
+        ],
+        "artist": "のん"
+    },
+    {
+        "new": "",
+        "id": "c35",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "鬼蝮 ユリア",
+        "text": [
+            "愚民のアイドル、",
+            "ユリアちゃんでぇ～～～す！",
+            "みんなの力で、",
+            "世界をアキバにしちゃお～～！"
+        ],
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "c36",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "アストライア",
+        "text": [
+            "さあ……見せてください、",
+            "あなたの【正義】を。",
+            "この世界に、新しい価値観を",
+            "もたらすのです"
+        ],
+        "artist": "明菜"
+    },
+    {
+        "new": "",
+        "id": "c37",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ティエイト",
+        "text": [
+            "この世界には海しかない。",
+            "だけど、電脳の海の底には、",
+            "あらゆるものが眠ってる"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "c38",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ペンデュラム・オルタ",
+        "text": [
+            "私の行動は全てプログラムに",
+            "沿って行われています。",
+            "全ては、ペンデュラムのために"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "c39",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "グラーヴェ・ノーヴァ",
+        "text": [
+            "思イ出セ、",
+            "本来ノオ前ノ製造目的ヲ！",
+            "コノ世界ノ真実ヲ！",
+            "ＡＨＡＨＡＨＡＨＡ……"
+        ],
+        "artist": "TOKIYA SAKBA"
+    },
+    {
+        "new": "",
+        "id": "c40",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "シラー・スティング",
+        "text": [
+            "私の片眼には見えている……",
+            "新世界の姿が。",
+            "ならば求める人々に、",
+            "救済の術を伝えよう"
+        ],
+        "artist": "MAYA"
+    },
+    {
+        "new": "",
+        "id": "c41",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "カラドリウス・ブルー",
+        "text": [
+            "人の命は、",
+            "皆、平等で尊いという。",
+            "しかし、私にはそれが",
+            "真実だとは思えない"
+        ],
+        "artist": "晩杯あきら"
+    },
+    {
+        "new": "",
+        "id": "c42",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "パピオン",
+        "text": [
+            "雑多な音の集まりではなく、",
+            "歓喜に満ちた調べを",
+            "お届けしましょう！"
+        ],
+        "artist": "加藤さやか"
+    },
+    {
+        "new": "",
+        "id": "c43",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "アンナプルナ",
+        "text": [
+            "私を蘇らせてくれた",
+            "人たちに尽くすこと。",
+            "それが今の望みです"
+        ],
+        "artist": "CHOCO"
+    },
+    {
+        "new": "",
+        "id": "c44",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "TKG-SOUSOU",
+        "text": [
+            "余の名はＳＯＵＳＯＵ。",
+            "サンゴクシの英雄であり",
+            "この乱世を",
+            "統一するものである！"
+        ],
+        "artist": "RARE ENGINE"
+    },
+    {
+        "new": "",
+        "id": "c45",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "ジェミニ・α",
+        "text": [
+            "またメインフレームからの",
+            "要請か……",
+            "退屈な任務でないといいが"
+        ],
+        "artist": "コタニ：トモユキ"
+    },
+    {
+        "new": "",
+        "id": "c46",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM",
+        "name": "RG-XIII ダインスレイヴ",
+        "text": [
+            "かつて、神を敵に回し、",
+            "神と互角に戦った",
+            "究極の機動兵器が",
+            "存在した……"
+        ],
+        "artist": "和隆"
+    },
+    {
+        "new": "",
+        "id": "ca27",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "七海 あおい",
+        "text": [
+            "僕の名前は『七海 あおい』。",
+            "中学二年生だ。特に生活に",
+            "不満はないけど……",
+            "何となく息苦しい"
+        ],
+        "artist": "望月けい"
+    },
+    {
+        "new": "",
+        "id": "ca28",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "高砂 瑞穂",
+        "text": [
+            "私の名前は『高砂 瑞穂』。",
+            "中学二年生です。私は",
+            "昔から内気で臆病で……",
+            "そんな自分が嫌でした"
+        ],
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "ca29",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "轟 雷音",
+        "text": [
+            "オレ様は『轟　雷音』……",
+            "ハクい名前だろう？",
+            "おっと、ヤクいヘッドなのは",
+            "気にしないでくれや！"
+        ],
+        "artist": "GODTAIL"
+    },
+    {
+        "new": "",
+        "id": "ca30",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "星河 うた",
+        "text": [
+            "誰かと一緒じゃ",
+            "音を楽しめない私が",
+            "音楽をやりたいと思うのは…",
+            "いけないことなのかな？"
+        ],
+        "artist": "田口囁一／感傷ベクトル"
+    },
+    {
+        "new": "",
+        "id": "ca31",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "天音 エイジ",
+        "text": [
+            "「好きにやらせろ！",
+            "すぐにやらせろ今ここで！」",
+            "「最低最悪……」"
+        ],
+        "artist": "夢路キリコ"
+    },
+    {
+        "new": "",
+        "id": "ca32",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "天野 あい",
+        "text": [
+            "私は星の精霊…",
+            "キミの願いを叶えて、",
+            "かがやく一番星になるの！"
+        ],
+        "artist": "樋上いたる（VisualArt's/Key）"
+    },
+    {
+        "new": "",
+        "id": "ca33",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "ロックスター★アミー",
+        "text": [
+            "理屈は置いてけ！",
+            "魂燃やせ！あたしが",
+            "日ノ本のマジロックを",
+            "体現してやんよ！"
+        ],
+        "artist": "木志田コテツ"
+    },
+    {
+        "new": "",
+        "id": "ca34",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "ニニカ・クロッシュ",
+        "text": [
+            "死を語ることに、",
+            "死を知る必要はない……",
+            "深淵には途方もなく、",
+            "暗く深くあって欲しいもの"
+        ],
+        "artist": "tica85 bookstores"
+    },
+    {
+        "new": "",
+        "id": "ca35",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "シカトリス",
+        "text": [
+            "『深淵なる終焉』……",
+            "寿命を迎え機能を停止した",
+            "プログラムたちの墓場。",
+            "僕はここで墓守をしている"
+        ],
+        "artist": "ttl"
+    },
+    {
+        "new": "",
+        "id": "ca36",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "ソラマチ・メメ",
+        "text": [
+            "私は『ソラマチ・メメ』。",
+            "宇宙ステーションで",
+            "暮らす女の子です。",
+            "夢はいつか地球に行くこと！"
+        ],
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "ca23",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "ラニウス・ヴルペクラ",
+        "text": [
+            "思わぬところで",
+            "任務に失敗してしまった。",
+            "こんな所で僕は倒れる",
+            "わけにはいかないのに！"
+        ],
+        "artist": "ni02"
+    },
+    {
+        "new": "",
+        "id": "ca24",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "MDA-01【シリウス】",
+        "text": [
+            "私はＭＤＡ－０１『シリウス』。",
+            "ネメシスからくる正体不明の",
+            "アバターを駆逐するのが",
+            "私の任務だ"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "ca25",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "シュープリス",
+        "text": [
+            "ここは…‥？",
+            "私は一体なにを……？",
+            "……何も思いだせないよ。",
+            "私は誰なの？"
+        ],
+        "artist": "huke"
+    },
+    {
+        "new": "",
+        "id": "ca26",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "スザク",
+        "text": [
+            "ＴＯＫＹＯ　ＢＯＯＴＨ。",
+            "ＢａｄでＳｕｃｋな街だ。",
+            "オレはこんな所で終わるのは",
+            "まっぴらごめんだぜ！"
+        ],
+        "artist": "TERU by mashcomix"
+    },
+    {
+        "new": "",
+        "id": "ca17",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "渋沢 ノノ",
+        "text": [
+            "田舎の高校に通う私は",
+            "都会に憧れてるんだ。",
+            "好きなものはダンスで、",
+            "ネットに動画を",
+            "あげてみたんだよ"
+        ],
+        "artist": "Mika Pikazo"
+    },
+    {
+        "new": "",
+        "id": "ca18",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "黄金井 竜子",
+        "text": [
+            "あたしの名前は",
+            "『黄金井 竜子』。",
+            "詳しい自己紹介は後だ！",
+            "今は目の前の妖怪を",
+            "ぶっ潰さねーと！"
+        ],
+        "artist": "hatsuko"
+    },
+    {
+        "new": "",
+        "id": "ca19",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "少年A",
+        "text": [
+            "僕の名前は仮に",
+            "『少年Ａ』としておこう。",
+            "これはウソつきだった僕と",
+            "あるお化けのお話だ"
+        ],
+        "artist": "ピノキオピー"
+    },
+    {
+        "new": "",
+        "id": "ca20",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "黒亀 北斗",
+        "text": [
+            "俺の名前は黒亀北斗。",
+            "基本、普通の高校生",
+            "……なんですが、夜は",
+            "ゴーストバスターやってます"
+        ],
+        "artist": "むらいち"
+    },
+    {
+        "new": "",
+        "id": "ca21",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "リリアリス・コルチカム",
+        "text": [
+            "わたし、もう爪先から",
+            "てっぺんまで",
+            "ずいぶんニンゲンに",
+            "見えるのじゃないカシラ？"
+        ],
+        "artist": "劇団イヌカレー・泥犬"
+    },
+    {
+        "new": "",
+        "id": "ca13",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "舞園 星斗",
+        "text": [
+            "１７歳、高校２年生。",
+            "趣味はゲーセンで音ゲーを",
+            "プレイすることです。",
+            "よろしくお願いします"
+        ],
+        "artist": "しきみ"
+    },
+    {
+        "new": "",
+        "id": "ca14",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "愛野 ヒカリ／最愛の光",
+        "text": [
+            "前回のＬＩＶＥは",
+            "おかげ様で大好評！なんと",
+            "早くも２ｎｄＬＩＶＥ決定！",
+            "みんなありがとう！"
+        ],
+        "artist": "山×２"
+    },
+    {
+        "new": "",
+        "id": "ca15",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "マリアンヌ新城",
+        "text": [
+            "マリアンヌとマイケル。",
+            "２人は運命的に愛し合い",
+            "運命の悪戯に",
+            "翻弄されるカップルだ"
+        ],
+        "artist": "須田彩加"
+    },
+    {
+        "new": "",
+        "id": "ca16",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "エクレール・エヴァンジール",
+        "text": [
+            "メタヴァースを司り、",
+            "人類復興を役目づけられた",
+            "『彼』は、人によって",
+            "生み出された『神』である"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "ca9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "兎音 ココ／ゲシュタルト崩壊中",
+        "text": [
+            "ココの『コドモガ受験相談室』",
+            "はっじまるよー！",
+            "今日もみんなのお悩みに",
+            "答えちゃうからねー！"
+        ],
+        "artist": "refeia"
+    },
+    {
+        "new": "",
+        "id": "ca10",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "葉和 とれび",
+        "text": [
+            "葉和　とれびで～す。",
+            "趣味はお菓子作り。",
+            "夢は素敵なお嫁さんに",
+            "なること。えへへ★"
+        ],
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "ca11",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "美嶋 はるな／夢のカケラ",
+        "text": [
+            "普通の高校３年生です。",
+            "なのに私のことを",
+            "特別扱いする人もいて……",
+            "ちょっと変な感じなの"
+        ],
+        "artist": "深崎暮人"
+    },
+    {
+        "new": "",
+        "id": "ca12",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "八咫烏 鋼太郎",
+        "text": [
+            "朝　目が覚めたら",
+            "メッチャ捕まっていました"
+        ],
+        "artist": "みさくらなんこつ"
+    },
+    {
+        "new": "",
+        "id": "ca5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "セリドウェン・マグメール",
+        "text": [
+            "私の名前は",
+            "セリドウェン・マグメール。",
+            "私の一族は自然と共に生き、",
+            "大地を自由に巡っているの"
+        ],
+        "artist": "湯煎くるたに"
+    },
+    {
+        "new": "",
+        "id": "ca6",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "ステラリウス・エオン・ブリルノーヴァ",
+        "text": [
+            "ワタクシはステラリウス・",
+            "エオン・ブリルノーヴァ。",
+            "帝国の末姫にして",
+            "絶世の美姫ですわ"
+        ],
+        "artist": "タイキ"
+    },
+    {
+        "new": "",
+        "id": "ca7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "白川 虎之助",
+        "text": [
+            "オレは白川　虎之助。",
+            "お前はこの名を一生",
+            "忘れられなくなる。オレは",
+            "世界最強のバンドマンだから！"
+        ],
+        "artist": "小玉有起"
+    },
+    {
+        "new": "",
+        "id": "ca8",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "チュウニペンギン／サウンドパレード！！",
+        "text": [
+            "こんにちは！",
+            "ペンギンのロシェだよ！",
+            "今回もボク達スタッフを",
+            "紹介していくよ♪"
+        ],
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "ca1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "MDA-21【レグルス】",
+        "text": [
+            "わ、私はＭＤＡ－２１",
+            "『レグルス』って言います。",
+            "新米防衛プログラムです。",
+            "その……頑張りますぅ！"
+        ],
+        "artist": "neco"
+    },
+    {
+        "new": "",
+        "id": "ca2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "断絶の破壊神",
+        "text": [
+            "『それ』は突如現れた。",
+            "圧倒的な質量と破壊力。",
+            "醜悪な姿の『それ』を人は",
+            "『断絶の破壊神』と呼んだ"
+        ],
+        "artist": "ケースワベ"
+    },
+    {
+        "new": "",
+        "id": "ca3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "RG-XXX ティアマット",
+        "text": [
+            "復讐と憎悪の焔に",
+            "よって創りだした真なる",
+            "神殺し。それが",
+            "『ＲＧ－ＸＸＸ　ティアマット』"
+        ],
+        "artist": "danciao"
+    },
+    {
+        "new": "",
+        "id": "ca4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "オメガ・クィントゥス",
+        "text": [
+            "荒廃した世界に現れし神。",
+            "大地と生命を産み、",
+            "この地上を自然豊かな",
+            "理想郷へと変える創造神だ"
+        ],
+        "artist": "ケースワベ"
+    },
+    {
+        "new": "",
+        "id": "ca37",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "しゃま",
+        "text": [
+            "私は表の世界では",
+            "牛乳会社の社長兼アイドル。",
+            "……裏の世界では",
+            "魔法使いをやっているにゃん"
+        ],
+        "artist": "百舌谷"
+    },
+    {
+        "new": "",
+        "id": "ca38",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "サツキ／光と闇を紡ぎし者",
+        "artist": "U10"
+    },
+    {
+        "new": "",
+        "id": "ca39",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "NEO／リジェネイト",
+        "artist": "so-bin"
+    },
+    {
+        "new": "",
+        "id": "ca40",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "ディース／砂海の舞姫",
+        "artist": "真嶋杏次"
+    },
+    {
+        "new": "",
+        "id": "ca41",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "光吉 猛修／友",
+        "text": [
+            "イエェーイ！",
+            "盛り上がってんのかー！",
+            "盛り下がってないかー！",
+            "愛すべき友を持てーっ！"
+        ],
+        "artist": "加藤さやか"
+    },
+    {
+        "new": "",
+        "id": "ca42",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "光吉 猛修／美",
+        "text": [
+            "赤いバラと赤メガネ…フフッ、",
+            "なんてナイスコーディネート",
+            "なんだ…ねぇそうだろう？",
+            "月夜に乾杯っ！"
+        ],
+        "artist": "加藤さやか"
+    },
+    {
+        "new": "",
+        "id": "ca43",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "光吉 猛修／愛",
+        "text": [
+            "鉢巻つけてるかー！",
+            "褌締めたかー！　汗だくかー？",
+            "よーし準備はいいかー！",
+            "せーの！　光吉祭だっ！"
+        ],
+        "artist": "加藤さやか"
+    },
+    {
+        "new": "",
+        "id": "ca44",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AIR",
+        "name": "光吉 猛修／東方Project：森近 霖之助",
+        "text": [
+            "臥薪嘗胆、四面楚歌。",
+            "ニコイチ、ニコニコ満貫全席！",
+            "国士無双でトイツ、",
+            "ツモツモっ！あ、それロンね"
+        ],
+        "artist": "加藤さやか"
+    },
+    {
+        "new": "",
+        "id": "cs1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "マゼラン・マゼラン",
+        "text": [
+            "ワタシはマゼラン・マゼラン。",
+            "地球名は大橋　銀子。",
+            "とある事情で地球の学校に",
+            "編入したいんだな～"
+        ],
+        "artist": "ちゃもーい"
+    },
+    {
+        "new": "",
+        "id": "cs2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "純白の歌闘士 ユーリス",
+        "text": [
+            "私の名はユーリス。",
+            "誇り高きティルマ―家の",
+            "長子にして、歌を力に変える",
+            "騎士。歌闘士だ"
+        ],
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "cs3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "観音寺 にこる",
+        "text": [
+            "中野が生んだ狂気のカメ娘",
+            "アイドル、観音寺ニコル。",
+            "彼女はカメラと可愛い女の子が",
+            "大好きな美少女だ！"
+        ],
+        "artist": "掃除朋具"
+    },
+    {
+        "new": "",
+        "id": "cs4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "トリスメギストス",
+        "text": [
+            "私は祝祭の神。あまねく",
+            "音場の守護者なり……。",
+            "我が蒼き炎は、",
+            "全ての悪を焼き尽くす"
+        ],
+        "artist": "竹安佐和記"
+    },
+    {
+        "new": "",
+        "id": "cs5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "戯曲のフォルネウス",
+        "text": [
+            "オレの名はフォルネウス。",
+            "ありきたりな戦争孤児さ。",
+            "別に過去は気にしちゃ",
+            "いないですよ？　アハ！"
+        ],
+        "artist": "穂嶋"
+    },
+    {
+        "new": "",
+        "id": "cs6",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "清瀧 藍",
+        "text": [
+            "私の名前は『清瀧　藍』。",
+            "新宿で怪異事件を専門に",
+            "調査をする『青島探偵事務所』で",
+            "助手をやっている"
+        ],
+        "artist": "ナナカワ"
+    },
+    {
+        "new": "",
+        "id": "cs7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ソウル・ブラザーズ",
+        "text": [
+            "オレたちは",
+            "ＨＩＰＨＯＰで完全調和",
+            "（パーフェクト・ハーモニー）を",
+            "目指すソウル・ブラザーズだ！"
+        ],
+        "artist": "TERU by mashcomix"
+    },
+    {
+        "new": "",
+        "id": "cs8",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "牧野 もこ",
+        "text": [
+            "普通の人は知らないけど、",
+            "この世界には動物から",
+            "人間の姿になれる動物が",
+            "いるんだ。わたしの場合は……"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cs9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "暁 凶香",
+        "text": [
+            "アタシは暁　凶香",
+            "（あかつき　きょうか）。",
+            "悪魔の声を持つせいでヤクザの",
+            "始末屋として飼われている"
+        ],
+        "artist": "MACCO"
+    },
+    {
+        "new": "",
+        "id": "cs10",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "津久井 シズノ",
+        "text": [
+            "ワタシ♪『津久井　シズノ』",
+            "っていいます。",
+            "鉄道……特に京急線が",
+            "だーい好きなアイドルです！"
+        ],
+        "artist": "魔太郎"
+    },
+    {
+        "new": "",
+        "id": "cs11",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "スカイフェザー",
+        "text": [
+            "あたいはスカイフェザー。",
+            "娯楽を担当するシステムの",
+            "一端としてナイスなゲームを",
+            "開発したいの！"
+        ],
+        "artist": "室埴ポコ"
+    },
+    {
+        "new": "",
+        "id": "cs12",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "MIR-202【アルテミス・レナ】",
+        "text": [
+            "私は探索者タイプの",
+            "プログラムＭＩＲ－２０２",
+            "『アルテミス』。でも",
+            "姉妹は私を『レナ』と呼ぶわ"
+        ],
+        "artist": "せんむ"
+    },
+    {
+        "new": "",
+        "id": "cs13",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "オールドブルー",
+        "text": [
+            "私はオールドブルー。",
+            "元メインフレームだが、",
+            "今はただの観測者。",
+            "『追放者（エグザイル）』だ"
+        ],
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "cs14",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "リヒトシュッツェ",
+        "text": [
+            "ワタシはリヒトシュッツェ。",
+            "断罪の翼を持つプログラム。",
+            "楽園を追放されし",
+            "咎人の処刑人である"
+        ],
+        "artist": "タカヤマトシアキ"
+    },
+    {
+        "new": "",
+        "id": "cs15",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "MTA-XXX【パンドラネメシス】",
+        "text": [
+            "ワタシはＭＴＡ－ＸＸＸ。",
+            "元メタヴァースの末端",
+            "ＶＯＸ管理者だが今は",
+            "ネメシスに飲まれて変容した"
+        ],
+        "artist": "おぐち"
+    },
+    {
+        "new": "",
+        "id": "cs16",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ショコラ",
+        "text": [
+            "私は『ショコラ』１３歳！",
+            "私もママみたいに素敵な",
+            "魔法使いになるのを夢見て、",
+            "勉強を頑張ってるの！"
+        ],
+        "artist": "kise"
+    },
+    {
+        "new": "",
+        "id": "cs17",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "テルミット・ヴィエルジュ",
+        "text": [
+            "『ヴィエルジュ』家は古き血統。",
+            "ヴァンパイアハンターとして",
+            "闇の住人を葬る使命を",
+            "背負っている"
+        ],
+        "artist": "白皙"
+    },
+    {
+        "new": "",
+        "id": "cs18",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "中曽根 秀光",
+        "text": [
+            "中曽根　秀光（なかそね",
+            "ひでみつ）くんはハイカラだ。",
+            "今日は彼の謎に包まれた",
+            "１日を紹介しよう"
+        ],
+        "artist": "金村 連"
+    },
+    {
+        "new": "",
+        "id": "cs19",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "HAR-ヒロイン09【ネレイダム】",
+        "text": [
+            "ＨＡＲシリーズは精巧な",
+            "ホログラムキャラクターだ。",
+            "ヒロイン０９『ネレイダム』も",
+            "人気の型番である"
+        ],
+        "artist": "iXima"
+    },
+    {
+        "new": "",
+        "id": "cs20",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "間宮 真琴",
+        "text": [
+            "信じられないかもしれないが、",
+            "わたしは魔法の砂時計を",
+            "使って冒険家のパパと",
+            "何度も時間旅行をした"
+        ],
+        "artist": "ふゆの春秋"
+    },
+    {
+        "new": "",
+        "id": "cso1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "アシェル＆シメオン",
+        "text": [
+            "人類のゆりかごメタヴァース。",
+            "楽園は穏やかな統合と",
+            "終焉を迎えつつあり、",
+            "管理者たちは選別を始めた"
+        ],
+        "artist": "MAYA"
+    },
+    {
+        "new": "",
+        "id": "cs21",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ティフォン",
+        "text": [
+            "神祖が神去りし後、",
+            "メタヴァースを繁栄へ",
+            "導くために顕現した１２柱。",
+            "それが『最古（オリジン）』だ"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "cs22",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "第八皇女エルルーン",
+        "text": [
+            "ワタクシの名前は",
+            "『エルルーン』。大戦を繰り返す",
+            "ヴァレアイン国の",
+            "八番目の姫……"
+        ],
+        "artist": "ザザ"
+    },
+    {
+        "new": "",
+        "id": "cs23",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "暴虐のギーゼグール",
+        "text": [
+            "私の名は『ギーゼグール』。",
+            "ピアニスト兼プロデューサーだ。",
+            "『暴虐』と呼ぶ者もいるがね"
+        ],
+        "artist": "創-taro"
+    },
+    {
+        "new": "",
+        "id": "cs24",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "G．O．D／魔縁",
+        "text": [
+            "我は煉獄の主。復讐の神。 ",
+            "天上の神を堕とすため、",
+            "我を至高に導く強者を",
+            "煉獄に招いてきた"
+        ],
+        "artist": "GODTAIL"
+    },
+    {
+        "new": "",
+        "id": "cs25",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ペンデラ",
+        "text": [
+            "俺の名前は『ペンデラ』。",
+            "しゃべる動物たちが",
+            "暮らすグンマ県で、",
+            "相棒と共に刑事をしている"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cs26",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ミミ",
+        "text": [
+            "ぼくはミミ。しゃべる動物たちが",
+            "暮らすグンマ県の",
+            "郵便局で働いてるの。",
+            "性別？　もちろん、男の子よ"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cs27",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "シロタ",
+        "text": [
+            "私はシロタ。",
+            "しゃべる動物たちが暮らす",
+            "サファリ市の雑貨屋です。",
+            "良いものを安くが",
+            "モットーです！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cs28",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ゴマネ",
+        "text": [
+            "あたくしの名はゴマネ。",
+            "サファリ市イチの商人だと",
+            "自負してますの。",
+            "趣味は骨董品集めなのよ"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cs29",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "パンタパンタ",
+        "text": [
+            "ボクはパンタ！",
+            "しゃべる動物たちが暮らす",
+            "グンマ県サファリ市で、",
+            "パンを作っているんだ！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cs30",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "美嶋 はるな／淡い約束",
+        "text": [
+            "季節は冬。僕は、はるなに",
+            "進路希望を聞かれた。",
+            "……できるなら、彼女と",
+            "同じ大学に行きたいけれど"
+        ],
+        "artist": "深崎暮人"
+    },
+    {
+        "new": "",
+        "id": "cs31",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "兎音 ココ／夏だ！海だ！夏期講習だ！",
+        "text": [
+            "夏休みだー！　遊ぶぞー！",
+            "海に行くぞー！",
+            "……え？　夏期講習？",
+            "嘘でしょマネージャー！？"
+        ],
+        "artist": "refeia"
+    },
+    {
+        "new": "",
+        "id": "cs32",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "愛野 ヒカリ／サンシャインサマー",
+        "text": [
+            "無人島でアイドルファイト！？",
+            "勝者は島貸し切り",
+            "ＬＩＶＥができる！？",
+            "それは負けられないよね！"
+        ],
+        "artist": "tonito"
+    },
+    {
+        "new": "",
+        "id": "cs33",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "MIR-203【セレネ・シェリル】",
+        "text": [
+            "シェリルは『ＭＩＲ』型と",
+            "言われる探索プログラムで",
+            "２人の姉と仲良く、",
+            "穏やかな日々を送っていた"
+        ],
+        "artist": "Nidy-2D-"
+    },
+    {
+        "new": "",
+        "id": "cs34",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "MIR-201【ヘカティ・ベアトリクス】",
+        "text": [
+            "ネメシスと人との力が融合し、",
+            "三姉妹は急速に成長。",
+            "このまま一気に",
+            "ティフォンを討ち破るだけだ"
+        ],
+        "artist": "リーホッチ"
+    },
+    {
+        "new": "",
+        "id": "cs35",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "エリスネメシス",
+        "text": [
+            "余は『エリスネメシス』。",
+            "混沌の胎より生まれし",
+            "７器の『混沌の器』が一つ也"
+        ],
+        "artist": "バシウス"
+    },
+    {
+        "new": "",
+        "id": "cs36",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ワイズマン",
+        "text": [
+            "私は『ワイズマン』。",
+            "最古（オリジン）だったが、",
+            "ティフォンの思想に",
+            "疑問を持ち、離脱した"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "cs37",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "グランレイス",
+        "text": [
+            "グランレイス。",
+            "それは人類の未来を運ぶ",
+            "宙駆ける船。",
+            "最古（オリジン）の手により",
+            "動く人工の伝説巨神"
+        ],
+        "artist": "ケースワベ"
+    },
+    {
+        "new": "",
+        "id": "cso8",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "チュウニペンギン／メシア",
+        "text": [
+            "いつもチュウニズムを",
+            "遊んでくれてありがとう！",
+            "今回もスタッフからの",
+            "メッセージを紹介するよ！"
+        ],
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "cso2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "アストライア／ゾディアック",
+        "artist": "明菜"
+    },
+    {
+        "new": "",
+        "id": "cso3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ソラマチ・メメ／夢の大地へ",
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "cso4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "観音寺 にこる／ポートレイトマフィア",
+        "artist": "掃除朋具"
+    },
+    {
+        "new": "",
+        "id": "cso5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "渋沢 ノノ／BIG BANG!!",
+        "artist": "Mika Pikazo"
+    },
+    {
+        "new": "",
+        "id": "cso9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "CHUNITHM筐体(STAR)",
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "cso7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM STAR",
+        "name": "ショウニペンギン",
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "a1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "高橋 早苗",
+        "text": [
+            "私の名前は高橋早苗。",
+            "１５歳。どこにでもいる",
+            "普通の中学３年生です"
+        ],
+        "artist": "U35"
+    },
+    {
+        "new": "",
+        "id": "a2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "橘 伸吾",
+        "text": [
+            "僕の名前は橘伸吾。",
+            "２８歳のデザイナーだ。",
+            "……でも僕の心は",
+            "１５歳のまま止まっている"
+        ],
+        "artist": "さいね"
+    },
+    {
+        "new": "",
+        "id": "a3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ダオ・トッテナ",
+        "text": [
+            "俺は絶対に許さない……",
+            "今ここに誓おう、",
+            "ハイエナアビスを倒す",
+            "レスラーになることを！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "a4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "アーリア・ネージュ",
+        "text": [
+            "アーリア・ネージュ！",
+            "彼女こそＨＩＰＨＯＰの",
+            "新時代を切り開くＤＩＶＡだ！",
+            "ユノンセーン？"
+        ],
+        "artist": "さいね"
+    },
+    {
+        "new": "",
+        "id": "a5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "新井 桃子",
+        "text": [
+            "私の名前は新井桃子だお。",
+            "一応、元アイドルだけど",
+            "今はアダチでダラダラして",
+            "るんだ。よろしくニキー"
+        ],
+        "artist": "赤城あさひと"
+    },
+    {
+        "new": "",
+        "id": "a6",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ネルネ＆ツムネ",
+        "text": [
+            "新人のネルネは",
+            "先輩のツムネさんに",
+            "迷惑をかけてばかり！",
+            "しかもお天気の神様を",
+            "怒らせてしまい……？"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "a7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ナージャ・ベルリオーズ",
+        "text": [
+            "私の名は",
+            "ナージャ・ベルリオーズ。",
+            "かつては『銀の聖女』と",
+            "呼ばれ、戦場で戦っていた",
+            "歌闘士だ"
+        ],
+        "artist": "ゆきさめ"
+    },
+    {
+        "new": "",
+        "id": "a8",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "後藤田 杏",
+        "text": [
+            "アタシの音楽……",
+            "世界中に届けたい！",
+            "まずは有名投稿者に",
+            "なってやる！"
+        ],
+        "artist": "U10"
+    },
+    {
+        "new": "",
+        "id": "a9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "シラタキ",
+        "text": [
+            "イバラキ県には",
+            "『竜宮城』という海の",
+            "動物たちの楽園がある……",
+            "が、最近はどうも",
+            "落ちぶれているようだ"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "a10",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "シルヴィアス",
+        "text": [
+            "私の名はシルヴィアス。",
+            "人は私を『神速の英雄』と",
+            "呼ぶが……私は英雄ではなく",
+            "神に仇なす者"
+        ],
+        "artist": "月岡 月穂"
+    },
+    {
+        "new": "",
+        "id": "a19",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "新田 ちえ",
+        "text": [
+            "私の名前は新田ちえ。",
+            "高校３年生……夢は、",
+            "今すぐこの街を離れ、どこか",
+            "遠くへ飛んで行くこと"
+        ],
+        "artist": "ダンミル"
+    },
+    {
+        "new": "",
+        "id": "a20",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "マリーメイア・クレスケンス",
+        "text": [
+            "ボクの名前は",
+            "マリーメイア・クレスケンス！",
+            "マリアって呼んで！",
+            "法皇様の下で",
+            "聖騎士団やってます！"
+        ],
+        "artist": "ni02"
+    },
+    {
+        "new": "",
+        "id": "a21",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ハイパーネットゲーマーアルテラ",
+        "text": [
+            "『大賢者アルテラ』。",
+            "ハイパーネットゲ―マーと",
+            "呼ばれる彼女の伝説。",
+            "そして軌跡を追ってみよう"
+        ],
+        "artist": "Saty."
+    },
+    {
+        "new": "",
+        "id": "a22",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "モガラ様",
+        "text": [
+            "僕の名前は……",
+            "済まないが『僕』とさせてくれ。",
+            "君は『モガラ様』という",
+            "都市伝説を知っているか？"
+        ],
+        "artist": "ガしガし"
+    },
+    {
+        "new": "",
+        "id": "a23",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "三田 ナナコ",
+        "text": [
+            "わたし、三田ナナコ！",
+            "中学２年生のアンドロイド！",
+            "しかも、なんと！",
+            "恋するアンドロイドなんだよ！"
+        ],
+        "artist": "作之介"
+    },
+    {
+        "new": "",
+        "id": "a25",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "XES-72【ディアナ・プリメーラ】",
+        "text": [
+            "ティフォン亡き後、",
+            "メタヴァースは残された",
+            "オリジン達の制御下に",
+            "置かれたがネメシスの",
+            "侵攻を受ける"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "a26",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "XGN-72【ルナ・ノーヴァ】",
+        "text": [
+            "ネメシス侵攻で",
+            "メインフレームと接続を",
+            "絶たれたファクトリーは",
+            "早急に再接続する",
+            "必要に迫られた"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "a27",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ソルナ",
+        "text": [
+            "わたしの名前はソルナ。",
+            "水と緑の楽園ブルーノヴァで",
+            "家族と一緒に大地を清める",
+            "暮らしをしています"
+        ],
+        "artist": "わし元"
+    },
+    {
+        "new": "",
+        "id": "a28",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "Dr.ユバル・ホルミスダス",
+        "text": [
+            "吾輩の名前はＤｒ．ユバル。",
+            "メタヴァースを創造した",
+            "偉大なるファクトリーの",
+            "科学者の１人じゃ"
+        ],
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "a29",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "憎悪の戦神 アレウス",
+        "text": [
+            "メタヴァースの",
+            "破壊者ネメシス。中でも特に",
+            "強力な『混沌の器』の一器が",
+            "『憎悪の戦神アレウス』だ"
+        ],
+        "artist": "danciao"
+    },
+    {
+        "new": "",
+        "id": "a31",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "リラ",
+        "text": [
+            "私はリラ。女子力なら",
+            "右に出るものはいないわ！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "a32",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "コニー",
+        "text": [
+            "俺の名はコニー。",
+            "ヒョウゴ県を代表するパン屋",
+            "『明石屋』の若き天才エースだ"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "a33",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "鬼蝮 アイリ",
+        "text": [
+            "我の前にひれ伏せ！",
+            "我は暗黒魔導士",
+            "アイリ様である！"
+        ],
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "a34",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "哲学主 ジェフティ",
+        "text": [
+            "少しばかり、",
+            "この世界について話をしよう。",
+            "メインフレームの支配者、",
+            "最古たちの物語を"
+        ],
+        "artist": "タカヤマトシアキ"
+    },
+    {
+        "new": "",
+        "id": "a35",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "Dr.メト・バサナテル",
+        "text": [
+            "僕の信念は、",
+            "『地上が再生するまでの",
+            "種の保存』さ。再生した",
+            "後のことは……考えてないな"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "a39",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "美嶋 はるな／放課後の天使",
+        "text": [
+            "終わったんだ……",
+            "彼が歌わせてくれた、",
+            "私の音楽祭……"
+        ],
+        "artist": "深崎暮人"
+    },
+    {
+        "new": "",
+        "id": "a40",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "兎音 ココ／受験相談室",
+        "text": [
+            "お勉強マシーンにされる",
+            "塾なんて行きたくなーい！",
+            "え？　成績ヤバイ？",
+            "そんなの知らないもーん"
+        ],
+        "artist": "refeia"
+    },
+    {
+        "new": "",
+        "id": "a41",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "愛野 ヒカリ／最強の花嫁",
+        "text": [
+            "今度のお仕事は",
+            "ウェディングプロモーション？",
+            "素敵！　理想のお嫁さんを",
+            "目指して頑張るぞー！"
+        ],
+        "artist": "tonito"
+    },
+    {
+        "new": "",
+        "id": "a43",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "裁定者 セラフィータ",
+        "text": [
+            "私は、すべての闘争を",
+            "平定する者、裁定者",
+            "セラフィータ"
+        ],
+        "artist": "TEDDY"
+    },
+    {
+        "new": "",
+        "id": "a44",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "Dr.テオ・メルキオル",
+        "text": [
+            "肉体を捨てる……",
+            "私はそうして時を超えてきた"
+        ],
+        "artist": "repi"
+    },
+    {
+        "new": "",
+        "id": "a45",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ヴェルゼビュートネメシス",
+        "text": [
+            "私の名は",
+            "『ヴェルゼビュート』。",
+            "フフ、愚かな人間ども、",
+            "私が導いてあげる"
+        ],
+        "artist": "煎茶"
+    },
+    {
+        "new": "",
+        "id": "a46",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "テスタメントネメシス",
+        "text": [
+            "純粋悪の化身である彼女は、",
+            "暴虐を手のひらで遊ぶ"
+        ],
+        "artist": "煎茶"
+    },
+    {
+        "new": "",
+        "id": "a48",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "京極院 桜花",
+        "text": [
+            "ネオヨシワラで絶大な",
+            "人気を誇るオイランバトル。",
+            "それは、美女たちが熱く",
+            "激しく華やかに戦う舞台"
+        ],
+        "artist": "荊すず"
+    },
+    {
+        "new": "",
+        "id": "a49",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "クーデルカ・プルミエール",
+        "text": [
+            "なぜ争うの……",
+            "私はどうして戦っているの……",
+            "私はもう、",
+            "戦いたくなんてないのに……"
+        ],
+        "artist": "桑島 黎音（くわしま れいん）"
+    },
+    {
+        "new": "",
+        "id": "a50",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ジョニー・サイアスティン",
+        "text": [
+            "ツアーの最中に大事な",
+            "ギターを紛失したジョニー。",
+            "紛失したギターには",
+            "とある能力が備わっていた"
+        ],
+        "artist": "姉崎ダイナミック"
+    },
+    {
+        "new": "",
+        "id": "a51",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "不動 絶音",
+        "text": [
+            "不動流音撃術の修行に",
+            "励んでいた不動絶音は、",
+            "攫われた妹を救うため、",
+            "ひとり山を下りる"
+        ],
+        "artist": "創-taro"
+    },
+    {
+        "new": "",
+        "id": "a54",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "チュウニペンギン／ラブリーハート",
+        "text": [
+            "“ロシェ＠ペンギン”",
+            "からのご挨拶",
+            "「チュウニズム昔ばなし」"
+        ],
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "a12",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ルミエラ・ヴィス・アニマート／セイクリッドフォトン",
+        "artist": "萩谷薫"
+    },
+    {
+        "new": "",
+        "id": "a13",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "八咫烏 鋼太郎／慰めの天使",
+        "artist": "みさくらなんこつ"
+    },
+    {
+        "new": "",
+        "id": "a14",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "MDA-21【レグルス／フォースリベレイター】",
+        "artist": "neco"
+    },
+    {
+        "new": "",
+        "id": "a15",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "ニニカ・クロッシュ／無意識との対話",
+        "artist": "tica85 bookstores"
+    },
+    {
+        "new": "",
+        "id": "a16",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM AMAZON",
+        "name": "アストライア／女神の微笑み",
+        "artist": "明菜"
+    },
+    {
+        "new": "",
+        "id": "cr1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "No.13_サジ",
+        "text": [
+            "今は上手く思い出すことは",
+            "できないけれど、",
+            "オレには大切に想っていた",
+            "人が居た"
+        ],
+        "artist": "モゲラッタ"
+    },
+    {
+        "new": "",
+        "id": "cr2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "No.9_ニナ",
+        "text": [
+            "ゲームの世界に",
+            "捕らわれた大好きな弟。",
+            "取り戻すためなら、あたしは",
+            "なんだってやってやる"
+        ],
+        "artist": "LAM"
+    },
+    {
+        "new": "",
+        "id": "cr3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "舞浜 優芽",
+        "text": [
+            "わたしの名前は舞浜優芽。",
+            "ある日わたしを変えてくれた",
+            "出会いがあったの"
+        ],
+        "artist": "k_ototo"
+    },
+    {
+        "new": "",
+        "id": "cr4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "イングリット・オーリック・コーネル",
+        "text": [
+            "天っ才美少女冒険家の",
+            "イングリットちゃんが、",
+            "世界のあらゆる",
+            "謎を解き明かすデ～ス！"
+        ],
+        "artist": "cura"
+    },
+    {
+        "new": "",
+        "id": "cr5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "宍戸 美鈴",
+        "text": [
+            "夢を追いかけてこの学校に",
+            "やってきたのに……",
+            "良い思い出になんて",
+            "できるはずないじゃないか"
+        ],
+        "artist": "裕"
+    },
+    {
+        "new": "",
+        "id": "cr6",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "パトリオット",
+        "text": [
+            "パトリオット。それが俺に",
+            "与えられたコードネーム。",
+            "いいか？　俺の邪魔だけは",
+            "するんじゃねぇぞ"
+        ],
+        "artist": "石渡太輔／アークシステムワークス"
+    },
+    {
+        "new": "",
+        "id": "cr7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ジーン・ザイン",
+        "text": [
+            "ＮＥＯ……確かにそう",
+            "呼ばれていたこともあったな。",
+            "今の俺はジーン。",
+            "ジーン・ザインと呼んでくれ"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "cr17",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ティータ・アヴェニアス",
+        "text": [
+            "神の戯れに産まれた",
+            "人間たち。この世界に",
+            "幸せな場所なんて",
+            "存在するのかな？"
+        ],
+        "artist": "鳴瀬うろこ"
+    },
+    {
+        "new": "",
+        "id": "cr18",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ミァン・テルスウラス",
+        "text": [
+            "広大で",
+            "豊かな大地であるルスラは、",
+            "神が賜うたもの。",
+            "私達は、神への感謝を",
+            "決して忘れてはなりません"
+        ],
+        "artist": "べにたま"
+    },
+    {
+        "new": "",
+        "id": "cr19",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "シエロ・メーヴェ",
+        "text": [
+            "精霊の力なんて、",
+            "アタシは望んでない。",
+            "こんな仕組みに人生を",
+            "振り回されるなんて真っ平だ"
+        ],
+        "artist": "べにたま"
+    },
+    {
+        "new": "",
+        "id": "cr20",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ジュナ・サラキア",
+        "text": [
+            "優しい民と、",
+            "慎ましく暮らす毎日。",
+            "これ以上の幸せなんて",
+            "他にあるのでしょうか"
+        ],
+        "artist": "麻谷知世"
+    },
+    {
+        "new": "",
+        "id": "cr21",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "聖女 アンナ・マルグレーテ",
+        "text": [
+            "人は愚かだったのかも",
+            "しれない。それでも聖女は、",
+            "人々のために身を挺する"
+        ],
+        "artist": "リウイチ"
+    },
+    {
+        "new": "",
+        "id": "cr24",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "セーレ・ヘイズ",
+        "text": [
+            "誰かに任せるなんて",
+            "私にはできない。",
+            "必ず私の手で、",
+            "家族の無念を晴らしてやる"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "cr25",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "全天の支配者 シエル",
+        "text": [
+            "“護る”ことに関しては、",
+            "結構自信があるのよ。",
+            "物理的にはもちろん",
+            "“ルール”とか“倫理”もね"
+        ],
+        "artist": "TEDDY"
+    },
+    {
+        "new": "",
+        "id": "cr26",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "埋葬者 ストゥム",
+        "text": [
+            "塵同然の僕は喰らい",
+            "続けるしかないんだ。",
+            "喰って喰って喰って、",
+            "喰らい続ける……！"
+        ],
+        "artist": "おぐち"
+    },
+    {
+        "new": "",
+        "id": "cr27",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "再生者 ディアン",
+        "text": [
+            "失われた最古の力。",
+            "この断片を活用し、",
+            "メタヴァースの統治を",
+            "完璧なものにしてみせよう"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "cr28",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "黄泉の盟主 ネルガル",
+        "text": [
+            "この世界は、",
+            "我々ネメシスの手によって",
+            "正しく導かれ、",
+            "統治されねばならぬのだ"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "cr32",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "クラウン",
+        "text": [
+            "『やってやりましょう先輩！』",
+            "『うるせえ。耳元で言わなくても",
+            "分かるっての』"
+        ],
+        "artist": "爽々"
+    },
+    {
+        "new": "",
+        "id": "cr33",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "セラフィナ・ヴィス・アニマート",
+        "text": [
+            "形だけの継承の儀式なんて、",
+            "意味あるのかな？",
+            "私は外の世界を知らないまま",
+            "死にたくないの"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "cr34",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "紫藤 流星",
+        "text": [
+            "ぼくの名前は『紫藤　流星』！",
+            "この街を守る",
+            "正義のヒーローだ！"
+        ],
+        "artist": "イノオカ"
+    },
+    {
+        "new": "",
+        "id": "cr35",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "創造神 イデア",
+        "text": [
+            "神が造りし箱庭の世界。",
+            "だがそれを、",
+            "神は失敗作と断じた"
+        ],
+        "artist": "夜汽車"
+    },
+    {
+        "new": "",
+        "id": "cr38",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "御手洗 千里",
+        "text": [
+            "ずっと人と関わらずに",
+            "走り続けてきたけど、",
+            "１人の友達がそんな私を",
+            "変えるきっかけをくれた"
+        ],
+        "artist": "れい亜"
+    },
+    {
+        "new": "",
+        "id": "cr39",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "アンプルール",
+        "text": [
+            "どんな時でも",
+            "カッコいい自分でありたい。",
+            "アースがもっと煌めけって",
+            "俺に囁くんだ"
+        ],
+        "artist": "小田すずか"
+    },
+    {
+        "new": "",
+        "id": "cr40",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "エルザ・フォン・オーディット",
+        "text": [
+            "拝啓、未来のプリンシパル。",
+            "変わりはないかい？",
+            "また一人で泣いていたり",
+            "しないか心配だよ"
+        ],
+        "artist": "やまかわ"
+    },
+    {
+        "new": "",
+        "id": "cr41",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "精神科医 東海林 伊周",
+        "text": [
+            "初めてアレを見た時は、",
+            "夢でも見てるのかと思った。",
+            "それくらい衝撃的で、",
+            "それくらい暴力的だった"
+        ],
+        "artist": "ざいん"
+    },
+    {
+        "new": "",
+        "id": "cr44",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "知雲 ひばり",
+        "text": [
+            "浮上した魔大陸アキハバラ！",
+            "勇敢な３人の美少女が",
+            "未知の大陸に",
+            "足を踏み入れる！"
+        ],
+        "artist": "富士やま"
+    },
+    {
+        "new": "",
+        "id": "cr45",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "伊賀崎ノ楠子",
+        "text": [
+            "江戸アイドルの知雲ひばりを",
+            "退けたアイリたち。",
+            "しかし、新たな刺客が",
+            "影で動くのであった！"
+        ],
+        "artist": "ぴょん吉"
+    },
+    {
+        "new": "",
+        "id": "cr46",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "天稲荷 コテツ",
+        "text": [
+            "江戸アイドルを",
+            "２人倒したアイリたち。",
+            "ユリアを取り戻すため、最後の",
+            "戦いへと向かうのだった"
+        ],
+        "artist": "ぽよよん♥ろっく"
+    },
+    {
+        "new": "",
+        "id": "cr47",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "大天使 ユリア",
+        "text": [
+            "アキハバラの",
+            "中心で叫ぶ大天使。",
+            "オタクとパリピの命運は、",
+            "彼女に託された"
+        ],
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "cr49",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "セシャト・シャフトリッヒ",
+        "text": [
+            "愚かな人間を管理する",
+            "神がいないことが、",
+            "世界がこんなにも",
+            "堕落する原因なのです"
+        ],
+        "artist": "N.A"
+    },
+    {
+        "new": "",
+        "id": "cr50",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "古き混沌の巨人",
+        "text": [
+            "憎い。憎い憎い憎い！",
+            "あたしの家族を奪った、",
+            "すべてを奪ったアイツが！",
+            "ユルセナイ……ッ！"
+        ],
+        "artist": "so-bin"
+    },
+    {
+        "new": "",
+        "id": "cr51",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "憎悪の始まりたる古竜",
+        "text": [
+            "巡礼教団が発掘した謎の卵。",
+            "それは、触れてはならぬ",
+            "パンドラの箱であった"
+        ],
+        "artist": "danciao"
+    },
+    {
+        "new": "",
+        "id": "cr52",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "導師 ミィム・ミクラー",
+        "text": [
+            "一緒に見届けてね？",
+            "アタシたちが誓った約束と、",
+            "世界が課した契約の、",
+            "その先を……"
+        ],
+        "artist": "煎茶"
+    },
+    {
+        "new": "",
+        "id": "cr54",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "チュウニペンギン／コンダクター",
+        "text": [
+            "“ロシェ＠ペンギン”",
+            "からのご案内",
+            "「ようこそ、",
+            "『譜面レストラン』へ」"
+        ],
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "cr53",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "古き破壊者 ベルゲルミル",
+        "text": [
+            "我は、地上再生を果たす",
+            "ゲートを護るもの。",
+            "其方が選ばれし者か、",
+            "審判を下してやろう"
+        ],
+        "artist": "ケースワベ"
+    },
+    {
+        "new": "",
+        "id": "cr9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "マゼラン・マゼラン／ラブリーハンター",
+        "artist": "ちゃもーい"
+    },
+    {
+        "new": "",
+        "id": "cr10",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "パンタパンタ／ビューティフルドリーム",
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cr11",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "リヒトシュッツェ／ラストサクリファイス",
+        "artist": "タカヤマトシアキ"
+    },
+    {
+        "new": "",
+        "id": "cr12",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "鬼蝮 ユリア／サーヴァントマスター",
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "cr13",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ステラリウス／デモンズクライ",
+        "artist": "タイキ"
+    },
+    {
+        "new": "",
+        "id": "cr14",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "青の死神／命脈を刈り取る刃",
+        "artist": "真嶋杏次"
+    },
+    {
+        "new": "",
+        "id": "cr36",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "MIR-201【ヘカティ・ベアトリクス／リベルタス】",
+        "artist": "リーホッチ"
+    },
+    {
+        "new": "",
+        "id": "cr37",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "MIR-202【アルテミス・レナ／リベルタス】",
+        "artist": "せんむ"
+    },
+    {
+        "new": "",
+        "id": "cr42",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "MIR-203【セレネ・シェリル／リベルタス】",
+        "artist": "Nidy-2D-"
+    },
+    {
+        "new": "",
+        "id": "cr43",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ティフォン／ルドラティックフォーム",
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "cr48",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM CRYSTAL",
+        "name": "ユーリス／ピュアアニムス",
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "p1",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ナイ",
+        "text": [
+            "子守型アンドロイド",
+            "＿０４１９＿Ｇｕａｒｄｉａｎ",
+            "起動します"
+        ],
+        "artist": "しがらき旭"
+    },
+    {
+        "new": "",
+        "id": "p2",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "遠夜 灯",
+        "text": [
+            "８月は３１日まで。",
+            "子供でも知ってるよ。",
+            "間違ってるのは……",
+            "私のほうなの！？"
+        ],
+        "artist": "かやはら"
+    },
+    {
+        "new": "",
+        "id": "p3",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ポメ太",
+        "text": [
+            "オレはポメ太！",
+            "グンマ最強の",
+            "“番長”に、オレはなるッ！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "p4",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "美咲 杏奈",
+        "text": [
+            "その日私は……",
+            "不思議なレシピを",
+            "見つけてしまったのです！"
+        ],
+        "artist": "シノアサ"
+    },
+    {
+        "new": "",
+        "id": "p5",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ラトーナ・ヘイズ",
+        "text": [
+            "戦いの終着点を",
+            "知る者などどこにもいない。",
+            "この道がどこに続くかなんて、",
+            "知らないように"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "p6",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "向来 隼",
+        "text": [
+            "アイツと過ごす時間が、",
+            "俺にとって",
+            "かけがえのない日常だった"
+        ],
+        "artist": "ふぁすな"
+    },
+    {
+        "new": "",
+        "id": "p7",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "イゼヴェル・ヤグルーシュ",
+        "text": [
+            "この汚染された",
+            "大地を癒してきたのは我々だ！",
+            "我々こそが、",
+            "真の後継者たりえるのだ！"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "p18",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ルチア・レ・ベルナデート",
+        "text": [
+            "聖女アンナと神の戦い。",
+            "その大きな事変の影に",
+            "埋もれているのは、",
+            "一人の少女の歴史だった"
+        ],
+        "artist": "sena"
+    },
+    {
+        "new": "",
+        "id": "p19",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ミァン・クレスターニ",
+        "text": [
+            "ひどい事件だったよ……",
+            "巫女様ひとり残して……。",
+            "ご立派になった巫女様を",
+            "見ていると涙が出てくるね"
+        ],
+        "artist": "べにたま"
+    },
+    {
+        "new": "",
+        "id": "p20",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "システィーナ・メーヴェ",
+        "text": [
+            "いつかわたしは、",
+            "外の世界に行くんだ。",
+            "きっと何処かに、",
+            "私の居場所がある"
+        ],
+        "artist": "クレタ"
+    },
+    {
+        "new": "",
+        "id": "p21",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ジュナ・フェリクス",
+        "text": [
+            "アテリマの教えを守り、",
+            "正しく民を導く父と母。",
+            "私にとって両親は",
+            "何よりの誇りなのです"
+        ],
+        "artist": "麻谷知世"
+    },
+    {
+        "new": "",
+        "id": "p22",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ウェスタ・グロリオサ・フォティア",
+        "text": [
+            "未だ貧困の格差が",
+            "是正されぬ国――アギディス。",
+            "私は、シルビア様と共に",
+            "この国を変えていきたい"
+        ],
+        "artist": "レニィレアン"
+    },
+    {
+        "new": "",
+        "id": "p23",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "水戸 雫",
+        "text": [
+            "晴れ間の虹を探すのは、",
+            "随分前にやめた"
+        ],
+        "artist": "gomzi"
+    },
+    {
+        "new": "",
+        "id": "p24",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "高須 らいむ",
+        "text": [
+            "天高くにそびえる",
+            "空中都市アキハバラ！",
+            "らいむはそこに、",
+            "天使を見た"
+        ],
+        "artist": "本条たたみ"
+    },
+    {
+        "new": "",
+        "id": "p25",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "御影 昴",
+        "text": [
+            "僕にとって隼は",
+            "初めてできた友達――",
+            "いや、親友かな♪"
+        ],
+        "artist": "絵西"
+    },
+    {
+        "new": "",
+        "id": "p26",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "リー・メイメイ",
+        "text": [
+            "超美人エージェント、",
+            "ここに登場アル！"
+        ],
+        "artist": "お久しぶり"
+    },
+    {
+        "new": "",
+        "id": "p27",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "トラ吉",
+        "text": [
+            "オレの名はトラ吉。",
+            "グンマ最強の",
+            "“番長”になる漢だ！"
+        ],
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "p28",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ヨナ・ライゼ",
+        "text": [
+            "ついに、私たちの前に",
+            "救世主様が現れた。",
+            "これで世界は、より良い世界に",
+            "生まれ変わるんだ"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "p29",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "風焔",
+        "text": [
+            "俺にとって、死ぬには",
+            "ちょうどいい機会だ。",
+            "どんな危険な場所だろうが",
+            "喜んで行ってやる"
+        ],
+        "artist": "上野綺士"
+    },
+    {
+        "new": "",
+        "id": "p30",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "エヴェリーナ",
+        "text": [
+            "腕前だけじゃなく、",
+            "誠実で素直な心の持ち主。",
+            "ルミエール様の人形は、",
+            "皆お優しい顔をしています"
+        ],
+        "artist": "浮 Ririfa"
+    },
+    {
+        "new": "",
+        "id": "p31",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "灰飾 カナエ",
+        "text": [
+            "鮮やかで、華麗で、輝いていて。",
+            "彼女みたいになりたくて、",
+            "勝負師を目指したんだ"
+        ],
+        "artist": "マシマサキ"
+    },
+    {
+        "new": "",
+        "id": "p32",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ヴィンデット・ジャン・ラディオール",
+        "text": [
+            "全てがシナリオ通りに",
+            "進んでいる……そう、",
+            "その時が来るまで……",
+            "私は演じ続けよう"
+        ],
+        "artist": "ホン・トク"
+    },
+    {
+        "new": "",
+        "id": "p33",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "巫黒 ユリ",
+        "text": [
+            "ぁ――あ――、",
+            "まだ調子は戻らないか。",
+            "聞き苦しいかもしれないけど、",
+            "付き合ってくれると嬉しいな"
+        ],
+        "artist": "秋赤音"
+    },
+    {
+        "new": "",
+        "id": "p34",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "姫月 るーな",
+        "text": [
+            "るーなも頑張ってるのに、",
+            "何で幸せになれないの？",
+            "はぁ～あ。もうマジ無理。",
+            "整形したい"
+        ],
+        "artist": "釜飯轟々丸"
+    },
+    {
+        "new": "",
+        "id": "p35",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "星街すいせい(ホロライブ)／自分勝手Dazzling",
+        "artist": "成海七海"
+    },
+    {
+        "new": "",
+        "id": "p36",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "memex／Utopithm",
+        "artist": "U10"
+    },
+    {
+        "new": "",
+        "id": "p37",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ぼっちぼろまる／妖怪ですから",
+        "artist": "作之介"
+    },
+    {
+        "new": "",
+        "id": "p38",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "KMNZ／Glory Days",
+        "artist": "しゅがお"
+    },
+    {
+        "new": "",
+        "id": "p39",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "Marpril／Spiral Fortune",
+        "artist": "みくら"
+    },
+    {
+        "new": "",
+        "id": "p40",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "レナ・イシュメイル",
+        "text": [
+            "これがわたしの選んだ道。",
+            "わたしたちの未来を",
+            "決めるのは、わたしたちだ！"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "p41",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ギデオン・ライゼ",
+        "text": [
+            "俺たちの実力が",
+            "評価されたんだ。",
+            "この護衛任務は絶対に",
+            "やり遂げてみせる"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "p42",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "サウル・カイム",
+        "text": [
+            "与えられるだけの生き方に、",
+            "意味はあるのか？",
+            "それじゃ、ただの機械と",
+            "変わらねぇだろう？"
+        ],
+        "artist": "TERU by mashcomix"
+    },
+    {
+        "new": "",
+        "id": "p43",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ミリアム・ベミドバル",
+        "text": [
+            "あたしは、自分の人生を",
+            "不幸だなんて思ったことは",
+            "一度もない。",
+            "みんながいれば、",
+            "それでいいのさ"
+        ],
+        "artist": "しろまち"
+    },
+    {
+        "new": "",
+        "id": "p44",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ブルー・スタイン",
+        "text": [
+            "現実の世界の",
+            "なんと広大なことか……。",
+            "この大地に、",
+            "私は星の息吹を感じたのだ"
+        ],
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "p45",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "創始者 カイン",
+        "text": [
+            "これが……",
+            "私の望んだ地球の姿……",
+            "おお……なんと",
+            "美しいのだ……！"
+        ],
+        "artist": "えすてぃお"
+    },
+    {
+        "new": "",
+        "id": "p46",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "チュウニペンギン／ボクノリレイション",
+        "text": [
+            "“ロシェ＠ペンギン”の",
+            "タワゴトです。",
+            "「また僕から",
+            "なんですか？？」"
+        ],
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "p9",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "織原 ひめみ／星の海へ",
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "p10",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "七海 あおい／夢の合わさる場所で",
+        "artist": "望月けい"
+    },
+    {
+        "new": "",
+        "id": "p11",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "娯楽の守護者 スカイフェザー",
+        "artist": "室埴ポコ"
+    },
+    {
+        "new": "",
+        "id": "p12",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "真なる奏者 シルヴィアス",
+        "artist": "月岡 月穂"
+    },
+    {
+        "new": "",
+        "id": "p8",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "チュウニペンギン＆ショウニペンギン／8bit",
+        "artist": "SEGA"
+    },
+    {
+        "new": "",
+        "id": "p13",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "黒亀 北斗／中野の守護者",
+        "artist": "むらいち"
+    },
+    {
+        "new": "",
+        "id": "p14",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ジェミニ・Ω／パルヴァライザー",
+        "artist": "コタニ：トモユキ"
+    },
+    {
+        "new": "",
+        "id": "p15",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "轟 雷音／血罵バリバリ最強伝説",
+        "artist": "GODTAIL"
+    },
+    {
+        "new": "",
+        "id": "p16",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "ノルン／暖かな記憶",
+        "artist": "akka"
+    },
+    {
+        "new": "",
+        "id": "p1s",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "メーネ・テルセーラ",
+        "text": [
+            "レナ姉は私の大切な家族。",
+            "いつか一緒に、",
+            "地上を旅するのが私の夢なんだ"
+        ],
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "p17",
+        "page": "chunithm",
+        "ctg_name": "CHUNITHM PARADISE",
+        "name": "TKG-ZETSU-A",
+        "text": [
+            "「ヒヒーン！　",
+            "（私はＺＥＴＳＵ－Ａ。",
+            "サンゴクシの英雄",
+            "ＳＯＵＳＯＵ様が駆る",
+            "時速３４０ｋｍの馬！）」"
+        ],
+        "artist": "RARE ENGINE"
+    },
+    {
+        "new": "",
+        "id": "n_3_1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅲ",
+        "name": "ゼファー・ニアルデ",
+        "text": [
+            "争いも憎しみもない、",
+            "自由に生きられる大地。",
+            "何があっても、",
+            "絶対に２人でたどり着いてみせる"
+        ],
+        "artist": "おぐち"
+    },
+    {
+        "new": "",
+        "id": "n_3_2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅲ",
+        "name": "ソロ・モーニア",
+        "text": [
+            "どうして僕を産んだの？",
+            "勝手に死んで、全部押しつける",
+            "なんてあんまりだ"
+        ],
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "n_3_3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅲ",
+        "name": "ミスラ・テルセーラ",
+        "text": [
+            "わたしが再生される前に",
+            "起こったおっきな戦争。",
+            "レナさんとママがいたから、",
+            "今のわたしがあるのね"
+        ],
+        "artist": "oneko"
+    },
+    {
+        "new": "",
+        "id": "n_3_4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅲ",
+        "name": "ヨアキム・イヤムル",
+        "text": [
+            "この依頼を片付けりゃ、",
+            "俺は晴れて自由の身よ。",
+            "今度こそ掴み取ってやるぜぇ！"
+        ],
+        "artist": "雅（まさ）"
+    },
+    {
+        "new": "",
+        "id": "n_3_5",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅲ",
+        "name": "ニア・ユーディット",
+        "text": [
+            "奴らに猶予を与えれば、",
+            "寝首をかかれてしまう。",
+            "今すぐ行動に移さなくては、",
+            "世界は救えないの"
+        ],
+        "artist": "miya*ki"
+    },
+    {
+        "new": "",
+        "id": "s_ex_1",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. EX",
+        "name": "導師 ミィム・ミクラー／真なる世界への祈り",
+        "artist": "煎茶"
+    },
+    {
+        "new": "",
+        "id": "s_ex_2",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. EX",
+        "name": "不来方 とあ／僕たちの約束",
+        "artist": "お久しぶり"
+    },
+    {
+        "new": "",
+        "id": "s_ex_3",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. EX",
+        "name": "レナ・イシュメイル／希望の灯火",
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "s_ex_4",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. EX",
+        "name": "宍戸 美鈴／It’s meant to be.",
+        "artist": "裕"
+    },
+    {
+        "new": "",
+        "id": "s_ex_5",
+        "page": "chunithm-sun",
+        "ctg_name": "SUN ep. EX",
+        "name": "ミスラ・テルセーラ／新たなる希望",
+        "artist": "oneko"
+    },
+    {
+        "new": "",
+        "id": "s_others_1",
+        "page": "chunithm-sun",
+        "ctg_name": "その他のキャラクター",
+        "name": "ナイ／0419_Guardian",
+        "artist": "しがらき旭"
+    },
+    {
+        "new": "",
+        "id": "s_others_2",
+        "page": "chunithm-sun",
+        "ctg_name": "その他のキャラクター",
+        "name": "サジ＆ニナ／パステルウォーカー",
+        "artist": "モゲラッタ"
+    },
+    {
+        "new": "",
+        "id": "s_others_3",
+        "page": "chunithm-sun",
+        "ctg_name": "その他のキャラクター",
+        "name": "蒼き大地のソルナ",
+        "artist": "わし元"
+    },
+    {
+        "new": "",
+        "id": "s_others_4",
+        "page": "chunithm-sun",
+        "ctg_name": "その他のキャラクター",
+        "name": "聖女 アンナ・マルグレーテ／運命の禍福",
+        "artist": "リウイチ"
+    },
+    {
+        "new": "",
+        "id": "s_others_5",
+        "page": "chunithm-sun",
+        "ctg_name": "その他のキャラクター",
+        "name": "エヴァ・ドミナンスXII",
+        "text": [
+            "創造主である我々に牙を剥き、",
+            "あまつさえ革新者を",
+            "名乗るとは……",
+            "分をわきまえさせる必要が",
+            "ありますね"
+        ],
+        "artist": "ろるあ"
+    },
+    {
+        "new": "",
+        "id": "n_4_1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅳ",
+        "name": "天月-あまつき-／タイムカプセル",
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "n_4_2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅳ",
+        "name": "淀川 沙音瑠",
+        "text": [
+            "オタクくんたち、",
+            "そのほっそい目ちゃんと開けて",
+            "うちのことよう見ときや！"
+        ],
+        "artist": "へんりいだ"
+    },
+    {
+        "new": "",
+        "id": "n_4_3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅳ",
+        "name": "黒須 紘",
+        "text": [
+            "怒るってなに？",
+            "悲しいってなに？",
+            "俺にはよくわからないよ"
+        ],
+        "artist": "キナコ"
+    },
+    {
+        "new": "",
+        "id": "n_4_4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅳ",
+        "name": "藍沢 奏雨",
+        "text": [
+            "まだまだこんなものじゃない。",
+            "ふたり一緒なら、",
+            "どこまでだって泳いでいける。",
+            "そんな気がするんだ"
+        ],
+        "artist": "爽々"
+    },
+    {
+        "new": "",
+        "id": "n_4_5",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Ⅳ",
+        "name": "ミカ・ドミナンスⅢ",
+        "text": [
+            "ニューネメアの",
+            "コロニー女王はこの私。",
+            "この楽園も子供たちも、",
+            "全て私のもの。",
+            "誰にも渡しはしないわ"
+        ],
+        "artist": "ainezu"
+    },
+    {
+        "new": "",
+        "id": "n_5_1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.V",
+        "name": "モーガン・フェール",
+        "text": [
+            "勘違いしちゃダメよォ？",
+            "あくまでここは",
+            "ロクデナシの集まる場所。",
+            "間違えると痛い目見るわよ"
+        ],
+        "artist": "姉崎ダイナミック"
+    },
+    {
+        "new": "",
+        "id": "n_5_2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.V",
+        "name": "EMANON",
+        "text": [
+            "これは今ではない、",
+            "ちょっと昔の物語。",
+            "少女が出会ったのは、",
+            "ひとりぼっちのお人形さんでした"
+        ],
+        "artist": "翔太郎"
+    },
+    {
+        "new": "",
+        "id": "n_5_3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.V",
+        "name": "エヴァ・ラグエル",
+        "text": [
+            "どいつもこいつも",
+            "神様神様言いやがって、",
+            "神様ってのはいてもいなくても",
+            "同じなんだよ"
+        ],
+        "artist": "岩本ゼロゴ"
+    },
+    {
+        "new": "",
+        "id": "n_5_4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.V",
+        "name": "闇よりも深い黒に染まるバーニッシュ",
+        "text": [
+            "長い夢を見ていた。",
+            "果てしなく長く、それでいて",
+            "その場に留まりつづけているような、",
+            "そんな悪夢を"
+        ],
+        "artist": "御船麻砥"
+    },
+    {
+        "new": "",
+        "id": "n_6_1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.VI",
+        "name": "ダンディ",
+        "text": [
+            "ボクの判断が理に適っていない事は",
+            "分かっている。だとしても、",
+            "いま立ち向かわなくちゃ",
+            "いけないんだ"
+        ],
+        "artist": "YSK"
+    },
+    {
+        "new": "",
+        "id": "n_6_2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.VI",
+        "name": "ロト・トゥエルヴ",
+        "text": [
+            "この眼も、この歯も、この耳も。",
+            "俺ときみは、",
+            "同じ素材からできているんだよ？"
+        ],
+        "artist": "ふぁすな"
+    },
+    {
+        "new": "",
+        "id": "n_6_3",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.VI",
+        "name": "マードゥク・アニマート",
+        "text": [
+            "俺たちが夢見た世界は、",
+            "どこにもなかった。",
+            "なら、世界を俺たちの手で",
+            "変えていくしかないだろ？"
+        ],
+        "artist": "ふぁすな"
+    },
+    {
+        "new": "",
+        "id": "n_6_4",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.VI",
+        "name": "カイナン・メルヴィアス",
+        "text": [
+            "我々の意思は強固だ。",
+            "バテシバ様の願いを",
+            "叶えるためだけに、",
+            "我々は存在しているのだから"
+        ],
+        "artist": "荒野"
+    },
+    {
+        "new": "",
+        "id": "n_c_1",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Chaos",
+        "name": "マルクトの女神",
+        "text": [
+            "変革を続ける大地",
+            "「覚醒せし者は疑い始める。",
+            "己を、そして神を」"
+        ],
+        "artist": "ケースワベ"
+    },
+    {
+        "new": "",
+        "id": "n_c_2",
+        "page": "chunithm-new",
+        "ctg_name": "NEW ep.Chaos",
+        "name": "覚醒者バシアン",
+        "text": [
+            "神の嘘と目覚める者",
+            "「僕は狂いだした。",
+            "神の意図した未来から。",
+            "だけど、本当に狂っているのは",
+            "どっちだろうか」"
+        ],
+        "artist": "おぐち"
+    },
+    {
+        "new": "",
+        "id": "others_1",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "MTA-XXX【パンドラネメシス】／アンテノラ",
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "others_2",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "戦禍を呼ぶ戦乙女 エルルーン",
+        "artist": "ザザ"
+    },
+    {
+        "new": "",
+        "id": "others_3",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "黒原 きずな／サークルプリンセス",
+        "artist": "赤城あさひと"
+    },
+    {
+        "new": "",
+        "id": "others_4",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "ジョニー・サイアスティン／マイトリロジー",
+        "artist": "姉崎ダイナミック"
+    },
+    {
+        "new": "",
+        "id": "others_5",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "アイザック・ドミナンスⅤⅢ",
+        "text": [
+            "逃がさん……",
+            "逃がさんぞ真人共よ。",
+            "貴様等はこのアイザックが",
+            "根絶やしにしてくれる！"
+        ],
+        "artist": "タカヤマトシアキ"
+    },
+    {
+        "new": "",
+        "id": "others_6",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "HAR-ヒロイン09【ネレイダム／メタモルフォーゼ】",
+        "artist": "iXima"
+    },
+    {
+        "new": "",
+        "id": "others_7",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "リリアリス・コルチカム／エターナルメイデン",
+        "artist": "劇団イヌカレー(泥犬)"
+    },
+    {
+        "new": "",
+        "id": "others_8",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "オメガギーゼグール",
+        "artist": "創-taro"
+    },
+    {
+        "new": "",
+        "id": "others_9",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "セラフィータ／アドミラルフォーム",
+        "artist": "TEDDY"
+    },
+    {
+        "new": "",
+        "id": "others_10",
+        "page": "chunithm-new",
+        "ctg_name": "その他のキャラクター",
+        "name": "ティータ・アヴェニアス／混乱の業火",
+        "artist": "鳴瀬うろこ"
+    },
+    {
+        "new": "",
+        "id": "a11",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "津久井 シズノ／弘明寺温泉物語",
+        "artist": "魔太郎"
+    },
+    {
+        "new": "",
+        "id": "a17",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "HAR-ヒロイン09【ネレイダム／聖夜の女神】",
+        "artist": "iXima"
+    },
+    {
+        "new": "",
+        "id": "a18",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "兎音 ココ／満点ドリーム",
+        "artist": "refeia"
+    },
+    {
+        "new": "",
+        "id": "a24",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "葉和 とれび／テンタクラースイーツ",
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "a30",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "舞園 星斗＆荒場 流子／雛飾りの二人",
+        "artist": "しきみ"
+    },
+    {
+        "new": "",
+        "id": "a36",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ソラマチ・メメ／駆け抜ける桜吹雪",
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "a37",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "牧野 もこ／ファザーファーム",
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "a38",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "MIR-203【セレネ・シェリル／ブライドフォーム】",
+        "artist": "Nidy-2D-"
+    },
+    {
+        "new": "",
+        "id": "a42",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "愛野 ヒカリ／シャイニーフラワー",
+        "artist": "tonito"
+    },
+    {
+        "new": "",
+        "id": "a47",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "暁 凶香／ひと時の休息を",
+        "artist": "MACCO"
+    },
+    {
+        "new": "",
+        "id": "a52",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "鬼蝮 ユリア／オールスター運動会",
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "a53",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ショコラ／チョコレートハロウィン",
+        "artist": "kise"
+    },
+    {
+        "new": "",
+        "id": "cr15",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "新井 桃子／秋の温泉ぼっち旅",
+        "artist": "赤城あさひと"
+    },
+    {
+        "new": "",
+        "id": "cr16",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "フィーネ・アルトリネス／クリスマスベル",
+        "artist": "真嶋杏次"
+    },
+    {
+        "new": "",
+        "id": "cr22",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "グランレイス／コスモイレイザー",
+        "artist": "ケースワベ"
+    },
+    {
+        "new": "",
+        "id": "cr23",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "七海 あおい＆高砂 瑞穂／バレンタインメモリー",
+        "artist": "バチ子"
+    },
+    {
+        "new": "",
+        "id": "cr29",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "マリアンヌ新城＆マイケル斉藤／SAMURAI",
+        "artist": "須田彩加"
+    },
+    {
+        "new": "",
+        "id": "cr31",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "パンタ＆コニー／タカサキ春のパン祭り",
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "cr30",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "八咫烏 鋼太郎／幸せの花見重箱弁当",
+        "artist": "みさくらなんこつ"
+    },
+    {
+        "new": "",
+        "id": "card1",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "DJ-MEGA／悪夢の節句",
+        "artist": "RARE ENGINE"
+    },
+    {
+        "new": "",
+        "id": "card2",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "MIR-201【ヘカティ・ベアトリクス／ブライドフォーム】",
+        "artist": "コダマ"
+    },
+    {
+        "new": "",
+        "id": "card3",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ハイパーネットゲーマーアルテラ／パリピビーチスプラッシュ",
+        "artist": "Saty"
+    },
+    {
+        "new": "",
+        "id": "card4",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "アーリア・ネージュ／縁日FESTIVAL",
+        "artist": "さいね"
+    },
+    {
+        "new": "",
+        "id": "card5",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "スカイフェザー／オールスター運動会",
+        "artist": "室埴ポコ"
+    },
+    {
+        "new": "",
+        "id": "card6",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "イングリット・オーリック・コーネル／乙女の湯",
+        "artist": "cura"
+    },
+    {
+        "new": "",
+        "id": "card7",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "カラドリウス・ブルー／魂の収穫者",
+        "artist": "晩杯あきら"
+    },
+    {
+        "new": "",
+        "id": "card8",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ジュナ・サラキア／愛と幸せのバレンタイン",
+        "artist": "麻谷知世"
+    },
+    {
+        "new": "",
+        "id": "card9",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "舞浜 優芽／Doll's Festival",
+        "artist": "k_ototo"
+    },
+    {
+        "new": "",
+        "id": "card10",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "兎音 ココ／秘密の補習",
+        "artist": "refeia"
+    },
+    {
+        "new": "",
+        "id": "card11",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ネルネ＆ツムネ／幸せの五月晴れ",
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "card12",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "MIR-202【アルテミス・レナ／ブライドフォーム】",
+        "artist": "せんむ"
+    },
+    {
+        "new": "",
+        "id": "card13",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "新田 ちえ／七夕の願い",
+        "artist": "ダンミル"
+    },
+    {
+        "new": "",
+        "id": "card14",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ナージャ・ベルリオーズ／祈りの海にて",
+        "artist": "ゆきさめ"
+    },
+    {
+        "new": "",
+        "id": "card15",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "鬼蝮 アイリ／オールスター運動会",
+        "artist": "空中幼彩"
+    },
+    {
+        "new": "",
+        "id": "card16",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "テルミット・ヴィエルジュ／マスカレイド",
+        "artist": "白皙"
+    },
+    {
+        "new": "",
+        "id": "card17",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "知雲 ひばり／湯上りライブ",
+        "artist": "富士やま"
+    },
+    {
+        "new": "",
+        "id": "card18",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "宍戸 美鈴／光の聖歌隊",
+        "artist": "裕"
+    },
+    {
+        "new": "",
+        "id": "card19",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "不動 絶音／音神の悟り",
+        "artist": "創-taro"
+    },
+    {
+        "new": "",
+        "id": "card20",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ミィム・ミクラー／豊穣のブルーノヴァで",
+        "artist": "煎茶"
+    },
+    {
+        "new": "",
+        "id": "card21",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "伊賀崎ノ楠子／ニャンジャ♡フェスティバル",
+        "artist": "ぴょん吉"
+    },
+    {
+        "new": "",
+        "id": "card22",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "向来 隼＆御影 昴／今日からよろしくね、先輩♪",
+        "artist": "ふぁすな"
+    },
+    {
+        "new": "",
+        "id": "card23",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ポメ太＆トラ吉／スピードの向こう岸",
+        "artist": "夢ノ内"
+    },
+    {
+        "new": "",
+        "id": "card24",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "シエロ・メーヴェ／求めし夢の花よ",
+        "artist": "べにたま"
+    },
+    {
+        "new": "",
+        "id": "card25",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "水戸 雫／あなたの手を引いて",
+        "artist": "gomzi"
+    },
+    {
+        "new": "",
+        "id": "card26",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "ヨナ・ライゼ／ラストバケーション",
+        "artist": "巌井崚"
+    },
+    {
+        "new": "",
+        "id": "card27",
+        "page": "cardmaker",
+        "ctg_name": "カードメイカー",
+        "name": "リー・メイメイ／爆裂旋風運動界",
+        "artist": "お久しぶり"
+    },
+    {
+        "new": "",
+        "id": "i1",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜",
+        "text": [
+            "なんでも楽しめる",
+            "機会があるなら、",
+            "やらなきゃ損でしょ！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i2",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ",
+        "text": [
+            "習い事とかじゃなくて……",
+            "ガチッと本気のやつ、",
+            "やりたいわよね？"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i3",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな",
+        "text": [
+            "ちょっとでいいから、",
+            "私もキラキラできないかな、",
+            "って……"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i4",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪",
+        "text": [
+            "理屈でも理論でもない音楽、",
+            "もっと知りたいなと思って"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i5",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる",
+        "text": [
+            "デタラメでいいんだよ！",
+            "どうせそんなの、",
+            "今しかできないっつの！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i6",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 那知",
+        "text": [
+            "少しは腕に",
+            "覚えのあるかと思えば…",
+            "フン、とんだ",
+            "ひよっこではないか"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i7",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈",
+        "text": [
+            "あの、わたし！",
+            "イロドリミドリはまだまだ、",
+            "上に登れると思ってるんで！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i8",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／学園MVP編",
+        "text": [
+            "面白そうなこと、",
+            "見つけたんだ！",
+            "みんなでやれば、",
+            "もーっと楽しい！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i9",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／学園MVP編",
+        "text": [
+            "ほらほらそこ、",
+            "ぼーっとしてたらダメよ！！",
+            "バシッと決めてくから！",
+            "ついてきてよね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i10",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／学園MVP編",
+        "text": [
+            "今より少しだけでも",
+            "前に進んで…",
+            "私たちのメッセージ、",
+            "届けれらないかなって"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i11",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／学園MVP編",
+        "text": [
+            "理論や楽譜だけじゃ",
+            "できない音楽、このバンドなら",
+            "できるって思ってますから"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i12",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／学園MVP編",
+        "text": [
+            "デタラメがなんだっちゅー",
+            "はなし！正解を求めたら",
+            "ロックンロールは",
+            "終わりってね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i21",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／試練の三送会編",
+        "text": [
+            "悩んだり、",
+            "考え込んじゃう前にさ！",
+            "まずは笑って！",
+            "やってみよーーー！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i19",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／試練の三送会編",
+        "text": [
+            "たゆまぬ修練が、",
+            "未来を作るって思うから…",
+            "あたしたちの今の音、",
+            "ビシッと決めるわよ！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i20",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／試練の三送会編",
+        "text": [
+            "みんなで手を取り合って、",
+            "前を向いていれば",
+            "ちゃんと一歩ずつ、",
+            "前に進めるはずだよね"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i17",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／試練の三送会編",
+        "text": [
+            "まだまだ問題は",
+            "山積みというところですが…",
+            "落ち着いて、",
+            "うまく解決していきましょう"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i18",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／試練の三送会編",
+        "text": [
+            "アウトサイダー？",
+            "上等だっつの！！",
+            "あたしのロックを型に",
+            "はめられると思うなよ！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i13",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 那知／試練の三送会編",
+        "text": [
+            "遠からん者は音に聞け、",
+            "近くば寄って目にも見よ！",
+            "わしこそが舞ヶ原の紅き鳳凰、",
+            "月鈴那知なるぞ！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i22",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈／試練の三送会編",
+        "text": [
+            "わ、わわ、私に",
+            "手伝わせてください！",
+            "イロドリミドリのためなら私、",
+            "やってみせます！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i24",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／波瀾の新入生編",
+        "text": [
+            "面白そうっ！みんなでやれば",
+            "きっとできるよ！！",
+            "新学期早々、",
+            "楽しくなってきたーーー！！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i25",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／波瀾の新入生編",
+        "text": [
+            "決めたことには、",
+            "ズバッと一直線！",
+            "まずは手を動かすのが",
+            "あたしの流儀、ってね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i26",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／波瀾の新入生編",
+        "text": [
+            "辛い時も、",
+            "うまくいかない時もあるけど…",
+            "大丈夫。花が咲く日は",
+            "いつか、きっとくるからね"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i28",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／波瀾の新入生編",
+        "text": [
+            "順を追っていけば、",
+            "できない事ではないと",
+            "思います。落ち着いて、",
+            "一歩ずつ進んでいきましょう"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i27",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／波瀾の新入生編",
+        "text": [
+            "あたしたちにロックの匂いを",
+            "感じた、ってことだな？",
+            "わかってるみたいじゃん！",
+            "ついてきな！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i29",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈／波瀾の新入生編",
+        "text": [
+            "こんなにやる気を見せられて、",
+            "放っておけません…！",
+            "私もお手伝い、さ、させて",
+            "頂きますね！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i44",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／決意の夏合宿編",
+        "text": [
+            "みんな集まれば、新しいことも",
+            "できそうだもんね！！",
+            "うん！　早速、",
+            "やってみよーーー！！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i42",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／決意の夏合宿編",
+        "text": [
+            "バンドの音を磨きあげるのが、",
+            "バンマスの使命…",
+            "頼られた以上、本気でやるのが",
+            "あたし流！　よね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i45",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／決意の夏合宿編",
+        "text": [
+            "私たちが、遠いところに",
+            "旅に出ようとする時…",
+            "あのスタジオには、",
+            "何が遺っているのかな"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i35",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／決意の夏合宿編",
+        "text": [
+            "あの…みなさん。ここに",
+            "何をしに来たか覚えて…",
+            "って、言ってるそばから！",
+            "しっかりして下さい！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i43",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／決意の夏合宿編",
+        "text": [
+            "納得するまで鳴らさなきゃ、",
+            "ロックじゃねーっつの！",
+            "あたしはこだわるよ、",
+            "徹底的にね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i36",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈／決意の夏合宿編",
+        "text": [
+            "このメンバーで、何も",
+            "起きないわけがないですし…",
+            "あ、もちろん私は！",
+            "全力でサポートしますよ…！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i23",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "五十嵐 撫子",
+        "text": [
+            "舞ヶ原の軽音部は、",
+            "あたしの原点っス！",
+            "ここでへこたれたら、",
+            "咲く花も咲きません！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i31",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "五十嵐 撫子／決意の夏合宿編",
+        "text": [
+            "先輩、みんな、これからも",
+            "よろしくお願いします！",
+            "あたしたちの音楽は、",
+            "今始まったばっかっスから！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i30",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "萩原 七々瀬",
+        "text": [
+            "確かにボクが部長…",
+            "伝説の軽音部を潰した、",
+            "ダメ部長だよ"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i34",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "萩原 七々瀬／決意の夏合宿編",
+        "text": [
+            "出会ったからには、",
+            "何か遺してやんないと。",
+            "…そう、最近は思ってる"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i32",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "葛城 華",
+        "text": [
+            "望むところよ、五十嵐撫子！！",
+            "私、あんたには",
+            "負けないんだからね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i33",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小野 美苗",
+        "text": [
+            "私、小野美苗。",
+            "今年から舞ヶ原高校に入った、",
+            "１年生です！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i54",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "芒崎 奏",
+        "text": [
+            "舞ヶ原の自由を体現した",
+            "あのイベントを。",
+            "…私は今年、復活させたいと",
+            "考えています"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i46",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "藤堂 陽南袴",
+        "text": [
+            "あの時のライブ、",
+            "見せてもらいましたけどぉ…",
+            "お遊戯会みたいでぇ、",
+            "可愛いなぁって！　あは！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i47",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "桔梗 小夜曲",
+        "text": [
+            "す、すいません…小夜は、",
+            "こんなんで…。トラックとか、",
+            "もっとかっこよく、",
+            "しますので…"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i48",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／襲来のシンセ研編",
+        "text": [
+            "私、めちゃくちゃ",
+            "いいこと思いついたんだ！！",
+            "舞ヶ原の後輩たちも、",
+            "きっと楽しんでくれるよ！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i49",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／襲来のシンセ研編",
+        "text": [
+            "この学校でできるステージも、",
+            "もう多くはないけど…",
+            "あたしたちの音楽！",
+            "ビシッと刻んどかなきゃね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i50",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／襲来のシンセ研編",
+        "text": [
+            "みんなも、きっともう",
+            "決めているんだって思うの。",
+            "私たちが遺す、ここで",
+            "やってきたことの、足跡"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i51",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／襲来のシンセ研編",
+        "text": [
+            "２年生といえば、部活でも",
+            "中心になる立場ですから。",
+            "ますます気を引き締めて、",
+            "頑張っていきましょう"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i52",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／襲来のシンセ研編",
+        "text": [
+            "あたしにも",
+            "後輩ちゃんがいるんでね！",
+            "見せてやるわけよ！",
+            "ロックンロールてやつを！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i53",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈／襲来のシンセ研編",
+        "text": [
+            "私もあまりしっかりしてる",
+            "方じゃないですけど…",
+            "困りごとがあれば、",
+            "なんでも頼ってください、ね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i55",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "五十嵐 撫子／襲来のシンセ研編",
+        "text": [
+            "あのライブ、あたしにとっては",
+            "原点そのものっス！",
+            "絶対にこの４人で！",
+            "やりたいっス！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i56",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "萩原 七々瀬／襲来のシンセ研編",
+        "text": [
+            "ここにはボクだけじゃない、",
+            "軽音部の連中もいる。",
+            "…君たちは、みんなの力を",
+            "借りればいい…"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i57",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "葛城 華／襲来のシンセ研編",
+        "text": [
+            "バッカじゃないの、",
+            "五十嵐撫子！！",
+            "あんたじゃなきゃ、誰が",
+            "このバンド始めんのよ！？"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i58",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小野 美苗／襲来のシンセ研編",
+        "text": [
+            "私、小野美苗。",
+            "舞ヶ原高校の軽音同好会で、",
+            "バンドをやってます！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i59",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／僕らの学園フェス編",
+        "text": [
+            "まいまいの全員が笑って",
+            "参加できる、最高のライブ！",
+            "ここにずっと、",
+            "遺るようにするの！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i60",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／僕らの学園フェス編",
+        "text": [
+            "毎回言ってるけど、",
+            "今回もやっぱり本気よ！",
+            "今このステージが、",
+            "あたしたちの最高のステージ！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i61",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／僕らの学園フェス編",
+        "text": [
+            "こんな景色、",
+            "今まで見たことなくって…",
+            "きっとこの風景を、みんなは",
+            "語り継いでいくんだね"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i62",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／僕らの学園フェス編",
+        "text": [
+            "私たちが、",
+            "ゼロから作ったステージ。",
+            "精一杯弾いて、",
+            "今ここで完成させましょう"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i63",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／僕らの学園フェス編",
+        "text": [
+            "ついにたどり",
+            "着いちまったなーー！！",
+            "これがあたしたちの…",
+            "ロックの殿堂、ってわけ！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i64",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈／僕らの学園フェス編",
+        "text": [
+            "ここから、",
+            "繋がっていくんですね…！",
+            "私たちの足跡と、",
+            "見えないくらい先の未来が…！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i65",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "芒崎 奏／僕らの学園フェス編",
+        "text": [
+            "記録はたくさん撮って、",
+            "残していきましょう。",
+            "先の先の、ずっと先の代の",
+            "皆が、迷わないように"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i66",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "藤堂 陽南袴／僕らの学園フェス編",
+        "text": [
+            "お前らよく覚えとけ、",
+            "目の前にいる舞ヶ原のＳ.Ｓ.Ｌ.",
+            "ここから始まり世界食らう",
+            "生ける伝説"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i67",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "桔梗 小夜曲／僕らの学園フェス編",
+        "text": [
+            "ベースさんを…もっと",
+            "デカくしてあげましょうか…",
+            "その方が…",
+            "ブチ上がりますので…フヒ…"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i68",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "五十嵐 撫子／僕らの学園フェス編",
+        "text": [
+            "やっと、今やっと始まった",
+            "気がするんス！",
+            "あたしたちのバンド、",
+            "ＨａＮａＭｉＮａが！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i69",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "萩原 七々瀬／僕らの学園フェス編",
+        "text": [
+            "悪いね、",
+            "スロースターターで…",
+            "新しい魂が馴染むまで、",
+            "少し時間がいるんだ"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i70",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "葛城 華／僕らの学園フェス編",
+        "text": [
+            "だーかーら！　",
+            "今だっつってんの！！",
+            "ここで一番デカイ声出さ",
+            "なくて、いつやんのよ！！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i71",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小野 美苗／僕らの学園フェス編",
+        "text": [
+            "私、小野美苗。",
+            "舞ヶ原の軽音同好会で、",
+            "ドラム叩いちゃってます！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_1",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜／途惑いのクリスマス編",
+        "text": [
+            "こうなれたらいいな、っていうの、",
+            "見つかってさ。",
+            "だから、それに近づく道を進みたい！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_2",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "御形 アリシアナ／途惑いのクリスマス編",
+        "text": [
+            "もちろん、あたしたちも",
+            "やりきったわよ！",
+            "反応バッチリ、これはもらった！",
+            "って感じよね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_3",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな／途惑いのクリスマス編",
+        "text": [
+            "ちゃんと、同じ方向を",
+            "向いているんだもん。",
+            "今年の舞ヶ原も、",
+            "きっと素敵になりますって！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_4",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小仏 凪／途惑いのクリスマス編",
+        "text": [
+            "私たちはそんなことにも",
+            "気づかないで、笑っていた",
+            "まるで時間の流れに",
+            "置いていかれるみたいに"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_5",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／途惑いのクリスマス編",
+        "text": [
+            "そっちがそういうの見せてこい！",
+            "っていうなら…",
+            "あたしらのやり方で、",
+            "見せつけてくだけだし？？"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_6",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 白奈／途惑いのクリスマス編",
+        "text": [
+            "独学だし、こんな役になるとは",
+            "思ってなかったけど。",
+            "今は、みんなと曲を作るのが",
+            "楽しくて！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_7",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "五十嵐 撫子／途惑いのクリスマス編",
+        "text": [
+            "いつか、ここでみんなに会ったことも",
+            "歌にするっス！",
+            "あたしたちの、大事なことっすから！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_8",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "萩原 七々瀬／途惑いのクリスマス編",
+        "text": [
+            "駆けつけられる時はそうするけど…",
+            "さすがに、この部室には",
+            "あまりいられないからね"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_9",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "葛城 華／途惑いのクリスマス編",
+        "text": [
+            "私たち、色々と先輩に任せっきりで。",
+            "もっと自分たちで",
+            "できるようにならなきゃ、って。"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_10",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "小野 美苗／途惑いのクリスマス編",
+        "text": [
+            "ＨａＮａＭｉＮａのドラム担当、",
+            "小野美苗です！",
+            "名前だけでも、",
+            "覚えていってくださいね！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_11",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "藤堂 陽南袴／途惑いのクリスマス編",
+        "text": [
+            "舞ヶ原の転換点を彩る主役の出番",
+            "首を洗って待ってな、",
+            "ゆるゆるガールズバンド"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_12",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "桔梗 小夜曲／途惑いのクリスマス編",
+        "text": [
+            "１４０くらいの、トランシーで、",
+            "カチ上がるやつを…",
+            "そういうリクエストでして… フヒ…"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i_6_13",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "芒崎 奏／途惑いのクリスマス編",
+        "text": [
+            "いや～、パーティの前日って",
+            "いいよね！",
+            "イベント前に仕事ないの、",
+            "久々だから！"
+        ],
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i14",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "1年生組(イロドリミドリ)／打ち上げフィーバー！",
+        "artist": "小梅けいと"
+    },
+    {
+        "new": "",
+        "id": "i15",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "2年生組(イロドリミドリ)／打ち上げフィーバー！",
+        "artist": "小梅けいと"
+    },
+    {
+        "new": "",
+        "id": "i16",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴姉妹(イロドリミドリ)／打ち上げフィーバー！",
+        "artist": "小梅けいと"
+    },
+    {
+        "new": "",
+        "id": "i37",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "イロドリミドリ／Still Going On!!!!!!!",
+        "artist": "Hisasi"
+    },
+    {
+        "new": "",
+        "id": "i38",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "月鈴 那知／留年協奏曲",
+        "artist": "もねてぃ"
+    },
+    {
+        "new": "",
+        "id": "i39",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる＆小仏 凪／ある休日の小仏家",
+        "artist": "高柳カツヤ"
+    },
+    {
+        "new": "",
+        "id": "i40",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "明坂 芹菜＆御形 アリシアナ／代々木デート",
+        "artist": "深井涼介"
+    },
+    {
+        "new": "",
+        "id": "i41",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "天王洲 なずな＆月鈴 白奈／温泉テーマパーク",
+        "artist": "森倉円"
+    },
+    {
+        "new": "new",
+        "id": "i85",
+        "page": "irodori-midori",
+        "ctg_name": "イロドリミドリ",
+        "name": "箱部 なる／卒業編",
+        "text": [
+            "ちゃんなぎを引き留めたのだって、",
+            "あたしだもんな。",
+            "誰も、どこにも行かないよって、",
+            "伝えてやんなきゃ"
+        ],
+        "artist": "Hisasi"
+    }
+]
