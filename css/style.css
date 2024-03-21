@@ -3229,6 +3229,13 @@
 .snav--nav__current.original:before {
   background-color: #bd2a1a;
 }
+.snav--nav__current.custom {
+  background-color: #f02d6d;
+  color: #fff;
+}
+.snav--nav__current.custom:before {
+  background-color: #f02d6d;
+}
 .snav--nav__current.we {
   background-color: #000000;
   color: #fff;
