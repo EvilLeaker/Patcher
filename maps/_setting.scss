@@ -28,70 +28,76 @@ sans-serif;
 
 // ヘッダー
 $color-header_bg: rgba(255, 255, 255, 0.6);
-$color-header_bg_sp: #fff;
+$color-header_bg_sp: linear-gradient(65deg, #ff946c 0%, #ff0568 45%, #ff0568 50%, #ff0568 55%, #ff946c 100%);
 $color-header_bg_sp_1: rgba(255, 255, 255, 0.9);
 $color-header_bg_sp_2: rgba(223, 248, 253, 0.8);
-$color-header_line: rgba(255, 225, 57, 0.6);
-$color-language_bg: #f38e17;
-$color-btn_bg: rgba(21, 28, 57, 0.9);
+$color-header_line: rgba(255, 34, 105, 0.8);
+$color-header_line_pc: linear-gradient(to right, rgba(255, 147, 107, 80%) 0%, rgba(255, 5, 104, 80%) 25%, rgba(255, 5, 104, 80%) 50%, rgba(255, 5, 104, 80%) 75%, rgba(255, 147, 107, 80%) 100%);
+$color-language_bg: linear-gradient(to right, #ff946c 0%, #ff0568 25%, #ff0568 50%, #ff0568 75%, #ff946c 100%);
+$color-btn_bg: linear-gradient(to right, #ff946c 0%, #ff0568 25%, #ff0568 50%, #ff0568 75%, #ff946c 100%);
 $color-header_txt: #151c39;
-$color-link_line: #f38e17;
-$color-btn_line: #ffe139;
+$color-link_line: #ff0568;
+$color-btn_line: #fff;
+$color-btn_line_open: #ff0868;
 // フッター
-$color-footer_bg: #151c39;
-$color-footer_bd_left: rgba(243, 142, 23, 0.9);
-$color-footer_bd_right: rgba(208, 120, 16, 0.9);
+$color-footer_bg: #4b1c28;
+$color-footer_bd_left: rgba(255, 34, 105, 0.9);
+$color-footer_bd_right: rgba(223, 25, 89, 0.9);
 
 
 // コモン
 // $color-common_bg:#b99438;
 // $color-common_box:rgba(21, 28, 57, 0.9);
-$color-common_btn:#f38e17;
-$color-common_btn_deco:#ffef1b;
-$color-common_btn_hover:#ffef1b;
+$color-common_btn:#ff2269;
+$color-common_btn_deco:#ffbd3f;
+$color-common_btn_hover:#ffbd3f;
 $color-common_btn_txt_hover:#fff;
-$color-common_btn_deco_hover:#f38e17;
-$color-common_h2:#151c39;
-$color-common_h4_line:rgba(243, 142, 23, 0.9);
-$color-common_cont_bg: rgba(3, 17, 42, 0.9);
-$color-common_nav_bg: rgba(29, 29, 29, 0.8);
-$color-common_nav_hover: #f38e17;
-$color-common_nav_deco: #f38e17;
+$color-common_btn_deco_hover:#ff2269;
+$color-common_h2:#ffffff;
+$color-common_h4_line:rgba(255, 34, 105, 0.9);
+$color-common_cont_bg: rgba(75, 28, 40, 0.9);
+$color-common_nav_bg: rgba(75, 28, 40, 0.8);
+$color-common_nav_hover: #ff2269;
+$color-common_nav_deco: #ff2269;
 
 // top
-$color-top_btn: rgba(28, 37, 75, 0.9);
-$color-top_btn_tri: rgba(243, 142, 23, 0.9);
-$color-top_box: linear-gradient(180deg, rgba(28, 37, 75, 0.9) 0%, rgba(21, 28, 57, 0.9) 100%);
+$color-top_btn: rgba(75, 28, 40, 0.9);
+$color-top_btn_tri: #ff2269;
+$color-top_box: rgba(75, 28, 40, 0.9);
 
 // play
-$color-play_current:#f38e17;
+$color-play_current:#ff2269;
 $color-play_current_font:#fff;
 $color-play_nav:#1d1d1d;
 $color-play_nav_font:#fff;
 
+// music list
+$color-music_delete:#ff2269;
+$color-music_copyright:rgba(75, 28, 40, 0.9);
+
 // dl
-$color-download_head:#f38e17;
-$color-download_head_line:#f38e17;
+$color-download_head:#ff2269;
+$color-download_head_line:#ff2269;
 $color-download:rgba(252, 250, 241, 0.9);
-$color-off:rgba(3, 17, 42, 0.9);
-$color-arrow:#f38e17;
+$color-off:rgba(29, 29, 29, 0.9);
+$color-arrow:#ff2269;
 $color-arrowOff:#3e3e3e;
-$color-download_box: linear-gradient(180deg, rgba(16, 16, 16, 0.9) 0%, rgba(45, 45, 45, 0.9) 100%);
+$color-download_box: rgba(75, 28, 40, 0.9);
 
 // 使用箇所: スライダー
-$color-swiper:rgba(255, 225, 57, 0.9);
-$color-arrow_on:#ffef1b;
+$color-swiper:rgba(255, 34, 105, 0.9);
+$color-arrow_on: #ff2269;
 $color-bullet:#6d6d6d;
-$color-bullet_on:#ffef1b;
+$color-bullet_on:#ff2269;
 
 // 使用箇所: スライダー
-$color-slider:#f38e17;
-$color-time:#f38e17;
+$color-slider:#ff2269;
+$color-time:#ff2269;
 
 // 使用箇所: NEWS
-$color-news_date: #f38e17;
+$color-news_date: #ff2269;
 $color-news_ttl: #ffffff;
-$color-news_ttl-bg: #f38e17;
+$color-news_ttl-bg: #ff2269;
 $color-news_red: #ff173d;
 $color-news_green: #12a34d;
 $color-news_purple: #d617ff;
@@ -101,7 +107,7 @@ $color-news_pink: #ff398c;
 $color-news_kon: #3d4ea5;
 $color-news_orange: #ff8a00;
 $color-news_kome: #ec2036;
-$color-news_title-border: #f38e17;
+$color-news_title-border: #ff2269;
 $color-news_h1-bg: #fcfaf1;
 $color-news_h1-font: #000;
 $color-news_blockquote: #ffffff;
@@ -111,12 +117,12 @@ $color-news_pre: #ffffff;
 $color-news_code-bg: #838383;
 $color-news_code: #404040;
 $color-news_table: #000000;
-$color-news_th-bg: #f38e17;
+$color-news_th-bg: #ff2269;
 $color-news_td-bg: #ffffff;
-$color-news_list-marker: #ffef1b;
-$color-news_button: #f38e17;
-$color-news_button-hover: #ffef1b;
-$color-news_button-txt: #000000;
+$color-news_list-marker: #ff2269;
+$color-news_button: #ff2269;
+$color-news_button-hover: #ffbd3f;
+$color-news_button-txt: #fff;
 
 // 使用箇所: キャラ一覧
-$color-chara_card: #f38e17;
+$color-chara_card: #ff2269;

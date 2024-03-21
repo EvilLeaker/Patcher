@@ -4,11 +4,25 @@ $(".header--btn").on("click", function () {
 });
 
 //背景
-$(function () {
-  setInterval(function () {
-    $('.common--bg__layer2--item').toggleClass('active');
-  }, 5000);
-});
+const mvVideo = document.querySelector(".common--bg__loop--mv");
+mvVideo
+  .play()
+  .then(() => {
+    mvVideo.pause();
+
+    setTimeout(function () {
+      mvVideo.play();
+      if (DEVICE.isPc) {
+        document.querySelector(".common--bg__loop--mv.sp-none").classList.add("js-show");
+      } else if (DEVICE.isSp) {
+        document.querySelector(".common--bg__loop--mv.pc-none").classList.add("js-show");
+      }
+      document.querySelector(".common--bg__loop--thumb").classList.remove("js-show");
+    }, 50);
+  })
+  .catch((error) => {
+    $(".common--bg__loop--thumb").addClass("js-show");
+  });
 
 // スムーススクロール
 $('a[href^="#"]').click(function () {
@@ -68,7 +82,7 @@ $(window).on("load", function () {
 // rest api
 var request = new XMLHttpRequest();
 
-request.open('GET', 'https://evilleaker.github.io/wp-json/thistheme/v1/articlesRest', true);
+request.open('GET', 'https://performai.evilleaker.com/wp-json/thistheme/v1/articlesRest', true);
 request.responseType = 'json';
 
 request.onload = function () {
