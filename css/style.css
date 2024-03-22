@@ -5502,6 +5502,9 @@
 .music--item__cat.ultima {
   background-color: #ff173d;
 }
+.music--item__cat.custom {
+  background-color: #f02d6d;
+}
 .music--item__tit {
   margin-top: 3.75vw;
   font-size: 3.75vw;
