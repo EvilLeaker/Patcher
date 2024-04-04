@@ -23424,6 +23424,22 @@
         "image": "5074.jpg"
     },
     {
+        "id": "5075",
+        "catname": "創作譜面",
+        "newflag": "0",
+        "title": "大香蕉",
+        "reading": "BANANA",
+        "artist": "龍智祥/吳非華",
+        "lev_bas": "-",
+        "lev_adv": "-",
+        "lev_exp": "-",
+        "lev_mas": "11.4",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "5075.jpg"
+    },
+    {
         "id": "5078",
         "catname": "創作譜面",
         "newflag": "0",
