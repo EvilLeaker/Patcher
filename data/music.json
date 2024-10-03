@@ -23040,6 +23040,22 @@
         "image": "e4c034fc74ff62fc.jpg"
     },
     {
+        "id": "988",
+        "catname": "削除曲",
+        "newflag": "0",
+        "title": "テリトリーバトル",
+        "reading": "テリトリーハトル",
+        "artist": "ツユ",
+        "lev_bas": "2",
+        "lev_adv": "5",
+        "lev_exp": "9",
+        "lev_mas": "12",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "bXVzaWMwOTg4.jpg"
+    },
+    {
         "id": "2100",
         "catname": "削除曲",
         "newflag": "0",
