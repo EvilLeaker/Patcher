@@ -1791,7 +1791,7 @@
   pointer-events: auto;
 }
 .header.open .header--btn {
-  background: transparent;
+  background: 0 0;
   border: transparent;
 }
 .header.open .header--btn > span {
@@ -1806,9 +1806,11 @@
   bottom: 49%;
   transform: rotate(-45deg);
 }
+.header--inner {
+  position: relative;
+}
 @media only screen and (min-width: 767px) {
   .header--inner {
-    position: relative;
     width: 100%;
     max-width: 1600px;
     margin: 0 auto;
@@ -1918,7 +1920,7 @@
   position: fixed;
   width: 100%;
   height: 100%;
-  background: linear-gradient(65deg, #ff946c 0%, #ff0568 45%, #ff0568 50%, #ff0568 55%, #ff946c 100%);
+  background: linear-gradient(90deg, #ff47e3 0%, #b700ff 28%, #b600ff 72%, #ff47e3 100%);
   z-index: 100;
   top: 0;
   left: 0;
