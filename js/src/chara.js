@@ -7,7 +7,7 @@ var make_chara = function (chara_id, name, id) {
   chara_img.className = "chara--item__thumb";
   var chara_thumb = document.createElement("img");
   chara_thumb.srcset =
-    "../assets/img/chara/chara_thumbnail/" + chara_id + ".png";
+    "../img/chara/chara_thumbnail/" + chara_id + ".png";
   var chara_name = document.createElement("p");
   chara_name.className = "chara--item__name";
   chara_name.innerHTML = name;
@@ -40,7 +40,7 @@ var genre = $(".common--h3").data("genre");
 var first_make = function (dir) {
   $.ajax({
     type: "GET",
-    url: "../../assets/data/chara.json",
+    url: "../data/chara.json",
     dataType: "json",
   }).then(
     function (json) {
