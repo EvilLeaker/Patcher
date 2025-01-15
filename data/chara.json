@@ -1,5 +1,56 @@
 [
   {
+    "title": "CHUNITHM VERSE",
+    "category": [
+      {
+        "map": "VERSE ep. I",
+        "characters": [
+          {
+            "id": "v_1_1",
+            "name": "ムッシュ・シャポー"
+          },
+          {
+            "id": "v_1_2",
+            "name": "柴村 ユカリ"
+          },
+          {
+            "id": "v_1_3",
+            "name": "法月 ぴこ"
+          },
+          {
+            "id": "v_1_4",
+            "name": "鬼蝮 ユリア／null☆nulllぱにっく"
+          },
+          {
+            "id": "v_1_5",
+            "name": "ソロ・モーニア／メタヴァース適応体"
+          },
+          {
+            "id": "v_1_6",
+            "name": "ウィリアム・ウィンスレッド"
+          },
+          {
+            "id": "v_1_7",
+            "name": "アイリーニ・キュリアス"
+          }
+        ]
+      },
+      {
+        "map": "UNLOCK CHALLENGE",
+        "characters": [
+          {
+            "id": "v_u_1",
+            "name": "蛇狩 あこ"
+          },
+          {
+            "id": "v_u_2",
+            "name": "やまだっち"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "CHUNITHM LUMINOUS",
     "category": [
       {
